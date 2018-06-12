@@ -1,4 +1,4 @@
-update=17/05/2018 08:50:51
+update=12/06/2018 10:55:19
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=C:/Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/alex-ibrary/alex-library
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=Tracés/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
