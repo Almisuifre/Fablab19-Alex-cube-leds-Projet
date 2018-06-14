@@ -1,4 +1,4 @@
-update=13/06/2018 23:29:29
+update=14/06/2018 08:32:23
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,5 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-[general]
-version=1
+LibName33=C:/Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-Kicad-Library/alex-ibrary/alex-library
