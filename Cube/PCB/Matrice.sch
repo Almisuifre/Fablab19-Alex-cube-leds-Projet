@@ -32,6 +32,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:alex-library
+LIBS:Cube-8x8x8-512_LEDS-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -63,27 +64,10 @@ F10 "R_QF" O R 2650 3500 60
 F11 "R_QG" O R 2650 3600 60 
 F12 "R_QH" O R 2650 3700 60 
 F13 "R_QH'" O R 2650 3850 60 
+F14 "~SRCLR" I L 1750 3450 60 
 $EndSheet
 Text GLabel 2900 3850 2    60   Output ~ 0
 SER_2
-$Sheet
-S 1750 4100 900  950 
-U 5B22654D
-F0 "BlockRowAnode2" 60
-F1 "Block Row Anode 2.sch" 60
-F2 "SRCLK" I L 1750 4150 60 
-F3 "RCLK" I L 1750 4300 60 
-F4 "SER" I L 1750 4450 60 
-F5 "R_QA" O R 2650 4150 60 
-F6 "R_QB" O R 2650 4250 60 
-F7 "R_QC" O R 2650 4350 60 
-F8 "R_QD" O R 2650 4450 60 
-F9 "R_QE" O R 2650 4550 60 
-F10 "R_QF" O R 2650 4650 60 
-F11 "R_QG" O R 2650 4750 60 
-F12 "R_QH" O R 2650 4850 60 
-F13 "R_QH'" O R 2650 5000 60 
-$EndSheet
 Text GLabel 1500 4150 0    60   Input ~ 0
 SRCLK
 Text GLabel 1500 4300 0    60   Input ~ 0
@@ -92,24 +76,6 @@ Text GLabel 1500 4450 0    60   Input ~ 0
 SER_2
 Text GLabel 2900 5000 2    60   Output ~ 0
 SER_3
-$Sheet
-S 1750 5250 900  950 
-U 5B2280E3
-F0 "BlockRowAnode3" 60
-F1 "Block Row Anode 3.sch" 60
-F2 "SRCLK" I L 1750 5300 60 
-F3 "RCLK" I L 1750 5450 60 
-F4 "SER" I L 1750 5600 60 
-F5 "R_QA" O R 2650 5300 60 
-F6 "R_QB" O R 2650 5400 60 
-F7 "R_QC" O R 2650 5500 60 
-F8 "R_QD" O R 2650 5600 60 
-F9 "R_QE" O R 2650 5700 60 
-F10 "R_QF" O R 2650 5800 60 
-F11 "R_QG" O R 2650 5900 60 
-F12 "R_QH" O R 2650 6000 60 
-F13 "R_QH'" O R 2650 6150 60 
-$EndSheet
 Text GLabel 1500 5300 0    60   Input ~ 0
 SRCLK
 Text GLabel 1500 5450 0    60   Input ~ 0
@@ -135,6 +101,7 @@ F10 "R_QF" O R 2650 6950 60
 F11 "R_QG" O R 2650 7050 60 
 F12 "R_QH" O R 2650 7150 60 
 F13 "R_QH'" O R 2650 7300 60 
+F14 "~SRCLR" I L 1750 6900 60 
 $EndSheet
 Text GLabel 1500 6450 0    60   Input ~ 0
 SRCLK
@@ -161,6 +128,7 @@ F10 "R_QF" O R 5800 3500 60
 F11 "R_QG" O R 5800 3600 60 
 F12 "R_QH" O R 5800 3700 60 
 F13 "R_QH'" O R 5800 3850 60 
+F14 "~SRCLR" I L 4900 3450 60 
 $EndSheet
 Text GLabel 4650 3000 0    60   Input ~ 0
 SRCLK
@@ -187,6 +155,7 @@ F10 "R_QF" O R 5800 4650 60
 F11 "R_QG" O R 5800 4750 60 
 F12 "R_QH" O R 5800 4850 60 
 F13 "R_QH'" O R 5800 5000 60 
+F14 "~SRCLR" I L 4900 4600 60 
 $EndSheet
 Text GLabel 4650 4150 0    60   Input ~ 0
 SRCLK
@@ -213,6 +182,7 @@ F10 "R_QF" O R 5800 5800 60
 F11 "R_QG" O R 5800 5900 60 
 F12 "R_QH" O R 5800 6000 60 
 F13 "R_QH'" O R 5800 6150 60 
+F14 "~SRCLR" I L 4900 5750 60 
 $EndSheet
 Text GLabel 4650 5300 0    60   Input ~ 0
 SRCLK
@@ -239,6 +209,7 @@ F10 "R_QF" O R 5800 6950 60
 F11 "R_QG" O R 5800 7050 60 
 F12 "R_QH" O R 5800 7150 60 
 F13 "R_QH'" O R 5800 7300 60 
+F14 "~SRCLR" I L 4900 6900 60 
 $EndSheet
 Text GLabel 4650 6450 0    60   Input ~ 0
 SRCLK
@@ -265,6 +236,7 @@ F10 "L_QF" O R 8900 3450 60
 F11 "L_QG" O R 8900 3550 60 
 F12 "L_QH" O R 8900 3650 60 
 F13 "L_QH'" O R 8900 3800 60 
+F14 "R_QH'" I L 8050 3400 60 
 $EndSheet
 Text GLabel 7800 2950 0    60   Input ~ 0
 SRCLK
@@ -1033,10 +1005,10 @@ A50
 Text Label 5800 1900 1    60   ~ 0
 A51
 $Comp
-L Matrice_8x8x8_512leds M?
+L Matrice_8x8x8_512leds M1
 U 1 1 5B33DA12
 P 4300 1150
-F 0 "M?" V 4750 3925 60  0000 C CNN
+F 0 "M1" V 4750 3925 60  0000 C CNN
 F 1 "Matrice_8x8x8_512leds" V 4800 2200 60  0000 C CNN
 F 2 "" H 4700 2150 60  0001 C CNN
 F 3 "" H 4700 2150 60  0001 C CNN
@@ -1133,4 +1105,197 @@ Text Label 3300 3600 0    60   ~ 0
 A7
 Text Label 3300 3700 0    60   ~ 0
 A8
+Text Label 3300 4150 0    60   ~ 0
+A9
+Text Label 3300 4250 0    60   ~ 0
+A10
+Text Label 3300 4350 0    60   ~ 0
+A11
+Text Label 3300 4450 0    60   ~ 0
+A12
+Text Label 3300 4550 0    60   ~ 0
+A13
+Text Label 3300 4650 0    60   ~ 0
+A14
+Text Label 3300 4750 0    60   ~ 0
+A15
+Text Label 3300 4850 0    60   ~ 0
+A16
+Text Label 3300 5300 0    60   ~ 0
+A17
+Text Label 3300 5400 0    60   ~ 0
+A18
+Text Label 3300 5500 0    60   ~ 0
+A19
+Text Label 3300 5600 0    60   ~ 0
+A20
+Text Label 3300 5700 0    60   ~ 0
+A21
+Text Label 3300 5800 0    60   ~ 0
+A22
+Text Label 3300 5900 0    60   ~ 0
+A23
+Text Label 3300 6000 0    60   ~ 0
+A24
+Text Label 3300 6450 0    60   ~ 0
+A25
+Text Label 3300 6550 0    60   ~ 0
+A26
+Text Label 3300 6650 0    60   ~ 0
+A27
+Text Label 3300 6750 0    60   ~ 0
+A28
+Text Label 3300 6850 0    60   ~ 0
+A29
+Text Label 3300 6950 0    60   ~ 0
+A30
+Text Label 3300 7050 0    60   ~ 0
+A31
+Text Label 3300 7150 0    60   ~ 0
+A32
+Text Label 6300 3000 0    60   ~ 0
+A33
+Text Label 6300 3100 0    60   ~ 0
+A34
+Text Label 6300 3200 0    60   ~ 0
+A35
+Text Label 6300 3300 0    60   ~ 0
+A36
+Text Label 6300 3400 0    60   ~ 0
+A37
+Text Label 6300 3500 0    60   ~ 0
+A38
+Text Label 6300 3600 0    60   ~ 0
+A39
+Text Label 6300 3700 0    60   ~ 0
+A40
+Text Label 6300 4150 0    60   ~ 0
+A41
+Text Label 6300 4250 0    60   ~ 0
+A42
+Text Label 6300 4350 0    60   ~ 0
+A43
+Text Label 6300 4450 0    60   ~ 0
+A44
+Text Label 6300 4550 0    60   ~ 0
+A45
+Text Label 6300 4650 0    60   ~ 0
+A46
+Text Label 6300 4750 0    60   ~ 0
+A47
+Text Label 6300 4850 0    60   ~ 0
+A48
+Text Label 6300 5300 0    60   ~ 0
+A49
+Text Label 6300 5400 0    60   ~ 0
+A50
+Text Label 6300 5500 0    60   ~ 0
+A51
+Text Label 6300 5600 0    60   ~ 0
+A52
+Text Label 6300 5700 0    60   ~ 0
+A53
+Text Label 6300 5800 0    60   ~ 0
+A54
+Text Label 6300 5900 0    60   ~ 0
+A55
+Text Label 6300 6000 0    60   ~ 0
+A56
+Text Label 6300 6450 0    60   ~ 0
+A57
+Text Label 6300 6550 0    60   ~ 0
+A58
+Text Label 6300 6650 0    60   ~ 0
+A59
+Text Label 6300 6750 0    60   ~ 0
+A60
+Text Label 6300 6850 0    60   ~ 0
+A61
+Text Label 6300 6950 0    60   ~ 0
+A62
+Text Label 6300 7050 0    60   ~ 0
+A63
+Text Label 6300 7150 0    60   ~ 0
+A64
+$Sheet
+S 1750 5250 900  950 
+U 5B2280E3
+F0 "BlockRowAnode3" 60
+F1 "Block Row Anode 3.sch" 60
+F2 "SRCLK" I L 1750 5300 60 
+F3 "RCLK" I L 1750 5450 60 
+F4 "SER" I L 1750 5600 60 
+F5 "R_QA" O R 2650 5300 60 
+F6 "R_QB" O R 2650 5400 60 
+F7 "R_QC" O R 2650 5500 60 
+F8 "R_QD" O R 2650 5600 60 
+F9 "R_QE" O R 2650 5700 60 
+F10 "R_QF" O R 2650 5800 60 
+F11 "R_QG" O R 2650 5900 60 
+F12 "R_QH" O R 2650 6000 60 
+F13 "R_QH'" O R 2650 6150 60 
+F14 "~SRCLR" I L 1750 5750 60 
+$EndSheet
+$Sheet
+S 1750 4100 900  950 
+U 5B22654D
+F0 "BlockRowAnode2" 60
+F1 "Block Row Anode 2.sch" 60
+F2 "SRCLK" I L 1750 4150 60 
+F3 "RCLK" I L 1750 4300 60 
+F4 "SER" I L 1750 4450 60 
+F5 "R_QA" O R 2650 4150 60 
+F6 "R_QB" O R 2650 4250 60 
+F7 "R_QC" O R 2650 4350 60 
+F8 "R_QD" O R 2650 4450 60 
+F9 "R_QE" O R 2650 4550 60 
+F10 "R_QF" O R 2650 4650 60 
+F11 "R_QG" O R 2650 4750 60 
+F12 "R_QH" O R 2650 4850 60 
+F13 "R_QH'" O R 2650 5000 60 
+F14 "~SRCLR" I L 1750 4600 60 
+$EndSheet
+Text HLabel 1500 3450 0    60   Input ~ 0
+~SRCLR_IN
+Wire Wire Line
+	1500 3450 1750 3450
+Wire Wire Line
+	1600 3450 1600 3650
+Wire Wire Line
+	1600 3650 1450 3650
+Connection ~ 1600 3450
+Text GLabel 1450 3650 0    60   Output ~ 0
+~SRCLR_CMD
+Text GLabel 1500 4600 0    60   Input ~ 0
+~SRCLR_CMD
+Wire Wire Line
+	1500 4600 1750 4600
+Text GLabel 1500 5750 0    60   Input ~ 0
+~SRCLR_CMD
+Wire Wire Line
+	1500 5750 1750 5750
+Text GLabel 1500 6900 0    60   Input ~ 0
+~SRCLR_CMD
+Wire Wire Line
+	1500 6900 1750 6900
+Text GLabel 4650 6900 0    60   Input ~ 0
+~SRCLR_CMD
+Wire Wire Line
+	4650 6900 4900 6900
+Text GLabel 4650 5750 0    60   Input ~ 0
+~SRCLR_CMD
+Wire Wire Line
+	4650 5750 4900 5750
+Text GLabel 4650 4600 0    60   Input ~ 0
+~SRCLR_CMD
+Wire Wire Line
+	4650 4600 4900 4600
+Text GLabel 4650 3450 0    60   Input ~ 0
+~SRCLR_CMD
+Wire Wire Line
+	4650 3450 4900 3450
+Text GLabel 7800 3400 0    60   Input ~ 0
+~SRCLR_CMD
+Wire Wire Line
+	7800 3400 8050 3400
 $EndSCHEMATC
