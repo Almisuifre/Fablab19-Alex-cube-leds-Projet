@@ -68,19 +68,19 @@ F14 "~SRCLR" I L 1750 3450 60
 $EndSheet
 Text GLabel 2900 3850 2    60   Output ~ 0
 SER_2
-Text GLabel 1500 4150 0    60   Input ~ 0
+Text GLabel 1300 4150 0    60   Input ~ 0
 SRCLK
-Text GLabel 1500 4300 0    60   Input ~ 0
+Text GLabel 1300 4300 0    60   Input ~ 0
 RCLK
-Text GLabel 1500 4450 0    60   Input ~ 0
+Text GLabel 1300 4450 0    60   Input ~ 0
 SER_2
 Text GLabel 2900 5000 2    60   Output ~ 0
 SER_3
-Text GLabel 1500 5300 0    60   Input ~ 0
+Text GLabel 1300 5300 0    60   Input ~ 0
 SRCLK
-Text GLabel 1500 5450 0    60   Input ~ 0
+Text GLabel 1300 5450 0    60   Input ~ 0
 RCLK
-Text GLabel 1500 5600 0    60   Input ~ 0
+Text GLabel 1300 5600 0    60   Input ~ 0
 SER_3
 Text GLabel 2900 6150 2    60   Output ~ 0
 SER_4
@@ -103,11 +103,11 @@ F12 "R_QH" O R 2650 7150 60
 F13 "R_QH'" O R 2650 7300 60 
 F14 "~SRCLR" I L 1750 6900 60 
 $EndSheet
-Text GLabel 1500 6450 0    60   Input ~ 0
+Text GLabel 1300 6450 0    60   Input ~ 0
 SRCLK
-Text GLabel 1500 6600 0    60   Input ~ 0
+Text GLabel 1300 6600 0    60   Input ~ 0
 RCLK
-Text GLabel 1500 6750 0    60   Input ~ 0
+Text GLabel 1300 6750 0    60   Input ~ 0
 SER_4
 Text GLabel 2900 7300 2    60   Output ~ 0
 SER_5
@@ -130,11 +130,11 @@ F12 "R_QH" O R 5800 3700 60
 F13 "R_QH'" O R 5800 3850 60 
 F14 "~SRCLR" I L 4900 3450 60 
 $EndSheet
-Text GLabel 4650 3000 0    60   Input ~ 0
+Text GLabel 4500 3000 0    60   Input ~ 0
 SRCLK
-Text GLabel 4650 3150 0    60   Input ~ 0
+Text GLabel 4500 3150 0    60   Input ~ 0
 RCLK
-Text GLabel 4650 3300 0    60   Input ~ 0
+Text GLabel 4500 3300 0    60   Input ~ 0
 SER_5
 Text GLabel 6050 3850 2    60   Output ~ 0
 SER_6
@@ -157,11 +157,11 @@ F12 "R_QH" O R 5800 4850 60
 F13 "R_QH'" O R 5800 5000 60 
 F14 "~SRCLR" I L 4900 4600 60 
 $EndSheet
-Text GLabel 4650 4150 0    60   Input ~ 0
+Text GLabel 4500 4150 0    60   Input ~ 0
 SRCLK
-Text GLabel 4650 4300 0    60   Input ~ 0
+Text GLabel 4500 4300 0    60   Input ~ 0
 RCLK
-Text GLabel 4650 4450 0    60   Input ~ 0
+Text GLabel 4500 4450 0    60   Input ~ 0
 SER_6
 Text GLabel 6050 5000 2    60   Output ~ 0
 SER_7
@@ -184,11 +184,11 @@ F12 "R_QH" O R 5800 6000 60
 F13 "R_QH'" O R 5800 6150 60 
 F14 "~SRCLR" I L 4900 5750 60 
 $EndSheet
-Text GLabel 4650 5300 0    60   Input ~ 0
+Text GLabel 4500 5300 0    60   Input ~ 0
 SRCLK
-Text GLabel 4650 5450 0    60   Input ~ 0
+Text GLabel 4500 5450 0    60   Input ~ 0
 RCLK
-Text GLabel 4650 5600 0    60   Input ~ 0
+Text GLabel 4500 5600 0    60   Input ~ 0
 SER_7
 Text GLabel 6050 6150 2    60   Output ~ 0
 SER_8
@@ -211,46 +211,27 @@ F12 "R_QH" O R 5800 7150 60
 F13 "R_QH'" O R 5800 7300 60 
 F14 "~SRCLR" I L 4900 6900 60 
 $EndSheet
-Text GLabel 4650 6450 0    60   Input ~ 0
+Text GLabel 4500 6450 0    60   Input ~ 0
 SRCLK
-Text GLabel 4650 6600 0    60   Input ~ 0
+Text GLabel 4500 6600 0    60   Input ~ 0
 RCLK
-Text GLabel 4650 6750 0    60   Input ~ 0
+Text GLabel 4500 6750 0    60   Input ~ 0
 SER_8
 Text GLabel 6050 7300 2    60   Output ~ 0
 SER_9
-$Sheet
-S 8050 2900 850  950 
-U 5B242BDA
-F0 "BlockLayersCatodes" 60
-F1 "Block Layers Catodes.sch" 60
-F2 "SRCLK" I L 8050 2950 60 
-F3 "RCLK" I L 8050 3100 60 
-F4 "SER" I L 8050 3250 60 
-F5 "L_QA" O R 8900 2950 60 
-F6 "L_QB" O R 8900 3050 60 
-F7 "L_QC" O R 8900 3150 60 
-F8 "L_QD" O R 8900 3250 60 
-F9 "L_QE" O R 8900 3350 60 
-F10 "L_QF" O R 8900 3450 60 
-F11 "L_QG" O R 8900 3550 60 
-F12 "L_QH" O R 8900 3650 60 
-F13 "L_QH'" O R 8900 3800 60 
-F14 "R_QH'" I L 8050 3400 60 
-$EndSheet
-Text GLabel 7800 2950 0    60   Input ~ 0
+Text GLabel 7650 2950 0    60   Input ~ 0
 SRCLK
-Text GLabel 7800 3100 0    60   Input ~ 0
+Text GLabel 7650 3100 0    60   Input ~ 0
 RCLK
-Text GLabel 7800 3250 0    60   Input ~ 0
+Text GLabel 7650 3250 0    60   Input ~ 0
 SER_9
-Text HLabel 1500 3000 0    60   Input ~ 0
+Text HLabel 1000 3000 0    60   Input ~ 0
 SRCLK_IN
-Text HLabel 1500 3150 0    60   Input ~ 0
+Text HLabel 1000 3150 0    60   Input ~ 0
 RCLK_IN
-Text HLabel 1500 3300 0    60   Input ~ 0
+Text HLabel 1000 3300 0    60   Input ~ 0
 SER_IN
-Text HLabel 9350 3800 2    60   Output ~ 0
+Text HLabel 10250 3950 2    60   Output ~ 0
 QH'_OUT
 Entry Wire Line
 	3500 3000 3600 3100
@@ -508,78 +489,499 @@ Entry Wire Line
 	7000 1950 7100 2050
 Entry Wire Line
 	7100 1950 7200 2050
+Entry Wire Line
+	9900 2950 10000 3050
+Entry Wire Line
+	9900 3050 10000 3150
+Entry Wire Line
+	9900 3150 10000 3250
+Entry Wire Line
+	9900 3250 10000 3350
+Entry Wire Line
+	9900 3350 10000 3450
+Entry Wire Line
+	9900 3450 10000 3550
+Entry Wire Line
+	9900 3550 10000 3650
+Entry Wire Line
+	9900 3650 10000 3750
+Entry Wire Line
+	7750 750  7850 850 
+Entry Wire Line
+	7750 850  7850 950 
+Entry Wire Line
+	7750 950  7850 1050
+Entry Wire Line
+	7750 1050 7850 1150
+Entry Wire Line
+	7750 1150 7850 1250
+Entry Wire Line
+	7750 1250 7850 1350
+Entry Wire Line
+	7750 1350 7850 1450
+Entry Wire Line
+	7750 1450 7850 1550
+Text Label 800  1900 1    60   ~ 0
+A1
+Text Label 900  1900 1    60   ~ 0
+A2
+Text Label 1000 1900 1    60   ~ 0
+A3
+Text Label 1100 1900 1    60   ~ 0
+A4
+Text Label 1200 1900 1    60   ~ 0
+A5
+Text Label 1300 1900 1    60   ~ 0
+A6
+Text Label 1400 1900 1    60   ~ 0
+A7
+Text Label 1500 1900 1    60   ~ 0
+A8
+Text Label 1600 1900 1    60   ~ 0
+A9
+Text Label 1700 1900 1    60   ~ 0
+A10
+Text Label 1800 1900 1    60   ~ 0
+A11
+Text Label 1900 1900 1    60   ~ 0
+A12
+Text Label 2000 1900 1    60   ~ 0
+A13
+Text Label 2100 1900 1    60   ~ 0
+A14
+Text Label 2200 1900 1    60   ~ 0
+A15
+Text Label 2300 1900 1    60   ~ 0
+A16
+Text Label 2400 1900 1    60   ~ 0
+A17
+Text Label 2500 1900 1    60   ~ 0
+A18
+Text Label 2600 1900 1    60   ~ 0
+A19
+Text Label 2700 1900 1    60   ~ 0
+A20
+Text Label 2800 1900 1    60   ~ 0
+A21
+Text Label 2900 1900 1    60   ~ 0
+A22
+Text Label 3000 1900 1    60   ~ 0
+A23
+Text Label 3100 1900 1    60   ~ 0
+A24
+Text Label 3200 1900 1    60   ~ 0
+A25
+Text Label 3300 1900 1    60   ~ 0
+A26
+Text Label 3400 1900 1    60   ~ 0
+A27
+Text Label 3500 1900 1    60   ~ 0
+A28
+Text Label 3600 1900 1    60   ~ 0
+A29
+Text Label 3700 1900 1    60   ~ 0
+A30
+Text Label 3800 1900 1    60   ~ 0
+A31
+Text Label 3900 1900 1    60   ~ 0
+A32
+Text Label 4000 1900 1    60   ~ 0
+A33
+Text Label 4100 1900 1    60   ~ 0
+A34
+Text Label 4200 1900 1    60   ~ 0
+A35
+Text Label 4300 1900 1    60   ~ 0
+A36
+Text Label 4400 1900 1    60   ~ 0
+A37
+Text Label 4500 1900 1    60   ~ 0
+A38
+Text Label 4600 1900 1    60   ~ 0
+A39
+Text Label 4700 1900 1    60   ~ 0
+A40
+Text Label 4800 1900 1    60   ~ 0
+A41
+Text Label 4900 1900 1    60   ~ 0
+A42
+Text Label 5000 1900 1    60   ~ 0
+A43
+Text Label 5100 1900 1    60   ~ 0
+A44
+Text Label 5200 1900 1    60   ~ 0
+A45
+Text Label 5300 1900 1    60   ~ 0
+A46
+Text Label 5400 1900 1    60   ~ 0
+A47
+Text Label 5500 1900 1    60   ~ 0
+A48
+Text Label 5600 1900 1    60   ~ 0
+A49
+Text Label 5700 1900 1    60   ~ 0
+A50
+Text Label 5800 1900 1    60   ~ 0
+A51
+$Comp
+L Matrice_8x8x8_512leds M1
+U 1 1 5B33DA12
+P 4300 1150
+F 0 "M1" V 4750 3925 60  0000 C CNN
+F 1 "Matrice_8x8x8_512leds" V 4800 2200 60  0000 C CNN
+F 2 "alex-library:Matrice-led-8x8x8_512-Leds" H 4700 2150 60  0001 C CNN
+F 3 "" H 4700 2150 60  0001 C CNN
+	1    4300 1150
+	0    -1   -1   0   
+$EndComp
+Text Label 5900 1900 1    60   ~ 0
+A52
+Text Label 6000 1900 1    60   ~ 0
+A53
+Text Label 6100 1900 1    60   ~ 0
+A54
+Text Label 6200 1900 1    60   ~ 0
+A55
+Text Label 6300 1900 1    60   ~ 0
+A56
+Text Label 6400 1900 1    60   ~ 0
+A57
+Text Label 6500 1900 1    60   ~ 0
+A58
+Text Label 6600 1900 1    60   ~ 0
+A59
+Text Label 6700 1900 1    60   ~ 0
+A60
+Text Label 6800 1900 1    60   ~ 0
+A61
+Text Label 6900 1900 1    60   ~ 0
+A62
+Text Label 7000 1900 1    60   ~ 0
+A63
+Text Label 7100 1900 1    60   ~ 0
+A64
+Text Label 7550 750  0    60   ~ 0
+K8
+Text Label 7550 850  0    60   ~ 0
+K7
+Text Label 7550 950  0    60   ~ 0
+K6
+Text Label 7550 1050 0    60   ~ 0
+K5
+Text Label 7550 1150 0    60   ~ 0
+K4
+Text Label 7550 1250 0    60   ~ 0
+K3
+Text Label 7550 1350 0    60   ~ 0
+K2
+Text Label 7550 1450 0    60   ~ 0
+K1
+Text Label 9500 2950 0    60   ~ 0
+K1
+Text Label 9500 3050 0    60   ~ 0
+K2
+Text Label 9500 3150 0    60   ~ 0
+K3
+Text Label 9500 3250 0    60   ~ 0
+K4
+Text Label 9500 3350 0    60   ~ 0
+K5
+Text Label 9500 3450 0    60   ~ 0
+K6
+Text Label 9500 3550 0    60   ~ 0
+K7
+Text Label 9500 3650 0    60   ~ 0
+K8
+Text Label 3300 3000 0    60   ~ 0
+A1
+Text Label 3300 3100 0    60   ~ 0
+A2
+Text Label 3300 3200 0    60   ~ 0
+A3
+Text Label 3300 3300 0    60   ~ 0
+A4
+Text Label 3300 3400 0    60   ~ 0
+A5
+Text Label 3300 3500 0    60   ~ 0
+A6
+Text Label 3300 3600 0    60   ~ 0
+A7
+Text Label 3300 3700 0    60   ~ 0
+A8
+Text Label 3300 4150 0    60   ~ 0
+A9
+Text Label 3300 4250 0    60   ~ 0
+A10
+Text Label 3300 4350 0    60   ~ 0
+A11
+Text Label 3300 4450 0    60   ~ 0
+A12
+Text Label 3300 4550 0    60   ~ 0
+A13
+Text Label 3300 4650 0    60   ~ 0
+A14
+Text Label 3300 4750 0    60   ~ 0
+A15
+Text Label 3300 4850 0    60   ~ 0
+A16
+Text Label 3300 5300 0    60   ~ 0
+A17
+Text Label 3300 5400 0    60   ~ 0
+A18
+Text Label 3300 5500 0    60   ~ 0
+A19
+Text Label 3300 5600 0    60   ~ 0
+A20
+Text Label 3300 5700 0    60   ~ 0
+A21
+Text Label 3300 5800 0    60   ~ 0
+A22
+Text Label 3300 5900 0    60   ~ 0
+A23
+Text Label 3300 6000 0    60   ~ 0
+A24
+Text Label 3300 6450 0    60   ~ 0
+A25
+Text Label 3300 6550 0    60   ~ 0
+A26
+Text Label 3300 6650 0    60   ~ 0
+A27
+Text Label 3300 6750 0    60   ~ 0
+A28
+Text Label 3300 6850 0    60   ~ 0
+A29
+Text Label 3300 6950 0    60   ~ 0
+A30
+Text Label 3300 7050 0    60   ~ 0
+A31
+Text Label 3300 7150 0    60   ~ 0
+A32
+Text Label 6300 3000 0    60   ~ 0
+A33
+Text Label 6300 3100 0    60   ~ 0
+A34
+Text Label 6300 3200 0    60   ~ 0
+A35
+Text Label 6300 3300 0    60   ~ 0
+A36
+Text Label 6300 3400 0    60   ~ 0
+A37
+Text Label 6300 3500 0    60   ~ 0
+A38
+Text Label 6300 3600 0    60   ~ 0
+A39
+Text Label 6300 3700 0    60   ~ 0
+A40
+Text Label 6300 4150 0    60   ~ 0
+A41
+Text Label 6300 4250 0    60   ~ 0
+A42
+Text Label 6300 4350 0    60   ~ 0
+A43
+Text Label 6300 4450 0    60   ~ 0
+A44
+Text Label 6300 4550 0    60   ~ 0
+A45
+Text Label 6300 4650 0    60   ~ 0
+A46
+Text Label 6300 4750 0    60   ~ 0
+A47
+Text Label 6300 4850 0    60   ~ 0
+A48
+Text Label 6300 5300 0    60   ~ 0
+A49
+Text Label 6300 5400 0    60   ~ 0
+A50
+Text Label 6300 5500 0    60   ~ 0
+A51
+Text Label 6300 5600 0    60   ~ 0
+A52
+Text Label 6300 5700 0    60   ~ 0
+A53
+Text Label 6300 5800 0    60   ~ 0
+A54
+Text Label 6300 5900 0    60   ~ 0
+A55
+Text Label 6300 6000 0    60   ~ 0
+A56
+Text Label 6300 6450 0    60   ~ 0
+A57
+Text Label 6300 6550 0    60   ~ 0
+A58
+Text Label 6300 6650 0    60   ~ 0
+A59
+Text Label 6300 6750 0    60   ~ 0
+A60
+Text Label 6300 6850 0    60   ~ 0
+A61
+Text Label 6300 6950 0    60   ~ 0
+A62
+Text Label 6300 7050 0    60   ~ 0
+A63
+Text Label 6300 7150 0    60   ~ 0
+A64
+$Sheet
+S 1750 5250 900  950 
+U 5B2280E3
+F0 "BlockRowAnode3" 60
+F1 "Block Row Anode 3.sch" 60
+F2 "SRCLK" I L 1750 5300 60 
+F3 "RCLK" I L 1750 5450 60 
+F4 "SER" I L 1750 5600 60 
+F5 "R_QA" O R 2650 5300 60 
+F6 "R_QB" O R 2650 5400 60 
+F7 "R_QC" O R 2650 5500 60 
+F8 "R_QD" O R 2650 5600 60 
+F9 "R_QE" O R 2650 5700 60 
+F10 "R_QF" O R 2650 5800 60 
+F11 "R_QG" O R 2650 5900 60 
+F12 "R_QH" O R 2650 6000 60 
+F13 "R_QH'" O R 2650 6150 60 
+F14 "~SRCLR" I L 1750 5750 60 
+$EndSheet
+$Sheet
+S 1750 4100 900  950 
+U 5B22654D
+F0 "BlockRowAnode2" 60
+F1 "Block Row Anode 2.sch" 60
+F2 "SRCLK" I L 1750 4150 60 
+F3 "RCLK" I L 1750 4300 60 
+F4 "SER" I L 1750 4450 60 
+F5 "R_QA" O R 2650 4150 60 
+F6 "R_QB" O R 2650 4250 60 
+F7 "R_QC" O R 2650 4350 60 
+F8 "R_QD" O R 2650 4450 60 
+F9 "R_QE" O R 2650 4550 60 
+F10 "R_QF" O R 2650 4650 60 
+F11 "R_QG" O R 2650 4750 60 
+F12 "R_QH" O R 2650 4850 60 
+F13 "R_QH'" O R 2650 5000 60 
+F14 "~SRCLR" I L 1750 4600 60 
+$EndSheet
+Text HLabel 1150 3450 0    60   Input ~ 0
+~SRCLR_IN
+Text GLabel 1150 3600 0    60   Output ~ 0
+~SRCLR_CMD
+Text GLabel 1300 4600 0    60   Input ~ 0
+~SRCLR_CMD
+Text GLabel 1300 5750 0    60   Input ~ 0
+~SRCLR_CMD
+Text GLabel 1300 6900 0    60   Input ~ 0
+~SRCLR_CMD
+Text GLabel 4500 6900 0    60   Input ~ 0
+~SRCLR_CMD
+Text GLabel 4500 5750 0    60   Input ~ 0
+~SRCLR_CMD
+Text GLabel 4500 4600 0    60   Input ~ 0
+~SRCLR_CMD
+Text GLabel 4500 3450 0    60   Input ~ 0
+~SRCLR_CMD
+Text GLabel 7650 3400 0    60   Input ~ 0
+~SRCLR_CMD
+$Comp
+L Chevron SW3
+U 1 1 5B292F00
+P 1400 3000
+F 0 "SW3" H 1390 2950 39  0000 C CNN
+F 1 "Chevron" H 1400 3100 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1500 3000 60  0001 C CNN
+F 3 "" H 1500 3000 60  0001 C CNN
+	1    1400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW4
+U 1 1 5B293D27
+P 1400 3150
+F 0 "SW4" H 1390 3100 39  0000 C CNN
+F 1 "Chevron" H 1400 3250 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1500 3150 60  0001 C CNN
+F 3 "" H 1500 3150 60  0001 C CNN
+	1    1400 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW5
+U 1 1 5B297A9C
+P 1550 3300
+F 0 "SW5" H 1540 3250 39  0000 C CNN
+F 1 "Chevron" H 1550 3400 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 3300 60  0001 C CNN
+F 3 "" H 1650 3300 60  0001 C CNN
+	1    1550 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW6
+U 1 1 5B29B580
+P 1550 3450
+F 0 "SW6" H 1540 3400 39  0000 C CNN
+F 1 "Chevron" H 1550 3550 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 3450 60  0001 C CNN
+F 3 "" H 1650 3450 60  0001 C CNN
+	1    1550 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW7
+U 1 1 5B2A0BDC
+P 1550 4150
+F 0 "SW7" H 1540 4100 39  0000 C CNN
+F 1 "Chevron" H 1550 4250 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 4150 60  0001 C CNN
+F 3 "" H 1650 4150 60  0001 C CNN
+	1    1550 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW8
+U 1 1 5B2A0ECA
+P 1550 4300
+F 0 "SW8" H 1540 4250 39  0000 C CNN
+F 1 "Chevron" H 1550 4400 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 4300 60  0001 C CNN
+F 3 "" H 1650 4300 60  0001 C CNN
+	1    1550 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW9
+U 1 1 5B2A11AF
+P 1550 4450
+F 0 "SW9" H 1540 4400 39  0000 C CNN
+F 1 "Chevron" H 1550 4550 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 4450 60  0001 C CNN
+F 3 "" H 1650 4450 60  0001 C CNN
+	1    1550 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW10
+U 1 1 5B2A149B
+P 1550 4600
+F 0 "SW10" H 1540 4550 39  0000 C CNN
+F 1 "Chevron" H 1550 4700 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 4600 60  0001 C CNN
+F 3 "" H 1650 4600 60  0001 C CNN
+	1    1550 4600
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	2650 3850 2900 3850
 Wire Wire Line
-	1750 4150 1500 4150
-Wire Wire Line
 	2650 5000 2900 5000
-Wire Wire Line
-	1500 4300 1750 4300
-Wire Wire Line
-	1500 4450 1750 4450
-Wire Wire Line
-	1750 5300 1500 5300
 Wire Wire Line
 	2650 6150 2900 6150
 Wire Wire Line
-	1500 5450 1750 5450
-Wire Wire Line
-	1500 5600 1750 5600
-Wire Wire Line
-	1750 6450 1500 6450
-Wire Wire Line
 	2650 7300 2900 7300
-Wire Wire Line
-	1500 6600 1750 6600
-Wire Wire Line
-	1500 6750 1750 6750
-Wire Wire Line
-	4900 3000 4650 3000
 Wire Wire Line
 	5800 3850 6050 3850
 Wire Wire Line
-	4650 3150 4900 3150
-Wire Wire Line
-	4650 3300 4900 3300
-Wire Wire Line
-	4900 4150 4650 4150
-Wire Wire Line
 	5800 5000 6050 5000
-Wire Wire Line
-	4650 4300 4900 4300
-Wire Wire Line
-	4650 4450 4900 4450
-Wire Wire Line
-	4900 5300 4650 5300
 Wire Wire Line
 	5800 6150 6050 6150
 Wire Wire Line
-	4650 5450 4900 5450
-Wire Wire Line
-	4650 5600 4900 5600
-Wire Wire Line
-	4900 6450 4650 6450
-Wire Wire Line
 	5800 7300 6050 7300
-Wire Wire Line
-	4650 6600 4900 6600
-Wire Wire Line
-	4650 6750 4900 6750
-Wire Wire Line
-	1500 3000 1750 3000
-Wire Wire Line
-	1500 3150 1750 3150
-Wire Wire Line
-	1500 3300 1750 3300
-Wire Wire Line
-	8900 3800 9350 3800
-Wire Wire Line
-	7800 2950 8050 2950
-Wire Wire Line
-	7800 3100 8050 3100
-Wire Wire Line
-	7800 3250 8050 3250
 Wire Bus Line
 	3600 3100 3600 7600
 Wire Bus Line
@@ -848,38 +1250,6 @@ Wire Wire Line
 	5800 3100 6550 3100
 Wire Wire Line
 	6550 3000 5800 3000
-Entry Wire Line
-	9900 2950 10000 3050
-Entry Wire Line
-	9900 3050 10000 3150
-Entry Wire Line
-	9900 3150 10000 3250
-Entry Wire Line
-	9900 3250 10000 3350
-Entry Wire Line
-	9900 3350 10000 3450
-Entry Wire Line
-	9900 3450 10000 3550
-Entry Wire Line
-	9900 3550 10000 3650
-Entry Wire Line
-	9900 3650 10000 3750
-Entry Wire Line
-	7750 750  7850 850 
-Entry Wire Line
-	7750 850  7850 950 
-Entry Wire Line
-	7750 950  7850 1050
-Entry Wire Line
-	7750 1050 7850 1150
-Entry Wire Line
-	7750 1150 7850 1250
-Entry Wire Line
-	7750 1250 7850 1350
-Entry Wire Line
-	7750 1350 7850 1450
-Entry Wire Line
-	7750 1450 7850 1550
 Wire Bus Line
 	7850 850  7850 2550
 Wire Bus Line
@@ -902,145 +1272,6 @@ Wire Wire Line
 	7400 1350 7750 1350
 Wire Wire Line
 	7400 1450 7750 1450
-Text Label 800  1900 1    60   ~ 0
-A1
-Text Label 900  1900 1    60   ~ 0
-A2
-Text Label 1000 1900 1    60   ~ 0
-A3
-Text Label 1100 1900 1    60   ~ 0
-A4
-Text Label 1200 1900 1    60   ~ 0
-A5
-Text Label 1300 1900 1    60   ~ 0
-A6
-Text Label 1400 1900 1    60   ~ 0
-A7
-Text Label 1500 1900 1    60   ~ 0
-A8
-Text Label 1600 1900 1    60   ~ 0
-A9
-Text Label 1700 1900 1    60   ~ 0
-A10
-Text Label 1800 1900 1    60   ~ 0
-A11
-Text Label 1900 1900 1    60   ~ 0
-A12
-Text Label 2000 1900 1    60   ~ 0
-A13
-Text Label 2100 1900 1    60   ~ 0
-A14
-Text Label 2200 1900 1    60   ~ 0
-A15
-Text Label 2300 1900 1    60   ~ 0
-A16
-Text Label 2400 1900 1    60   ~ 0
-A17
-Text Label 2500 1900 1    60   ~ 0
-A18
-Text Label 2600 1900 1    60   ~ 0
-A19
-Text Label 2700 1900 1    60   ~ 0
-A20
-Text Label 2800 1900 1    60   ~ 0
-A21
-Text Label 2900 1900 1    60   ~ 0
-A22
-Text Label 3000 1900 1    60   ~ 0
-A23
-Text Label 3100 1900 1    60   ~ 0
-A24
-Text Label 3200 1900 1    60   ~ 0
-A25
-Text Label 3300 1900 1    60   ~ 0
-A26
-Text Label 3400 1900 1    60   ~ 0
-A27
-Text Label 3500 1900 1    60   ~ 0
-A28
-Text Label 3600 1900 1    60   ~ 0
-A29
-Text Label 3700 1900 1    60   ~ 0
-A30
-Text Label 3800 1900 1    60   ~ 0
-A31
-Text Label 3900 1900 1    60   ~ 0
-A32
-Text Label 4000 1900 1    60   ~ 0
-A33
-Text Label 4100 1900 1    60   ~ 0
-A34
-Text Label 4200 1900 1    60   ~ 0
-A35
-Text Label 4300 1900 1    60   ~ 0
-A36
-Text Label 4400 1900 1    60   ~ 0
-A37
-Text Label 4500 1900 1    60   ~ 0
-A38
-Text Label 4600 1900 1    60   ~ 0
-A39
-Text Label 4700 1900 1    60   ~ 0
-A40
-Text Label 4800 1900 1    60   ~ 0
-A41
-Text Label 4900 1900 1    60   ~ 0
-A42
-Text Label 5000 1900 1    60   ~ 0
-A43
-Text Label 5100 1900 1    60   ~ 0
-A44
-Text Label 5200 1900 1    60   ~ 0
-A45
-Text Label 5300 1900 1    60   ~ 0
-A46
-Text Label 5400 1900 1    60   ~ 0
-A47
-Text Label 5500 1900 1    60   ~ 0
-A48
-Text Label 5600 1900 1    60   ~ 0
-A49
-Text Label 5700 1900 1    60   ~ 0
-A50
-Text Label 5800 1900 1    60   ~ 0
-A51
-$Comp
-L Matrice_8x8x8_512leds M1
-U 1 1 5B33DA12
-P 4300 1150
-F 0 "M1" V 4750 3925 60  0000 C CNN
-F 1 "Matrice_8x8x8_512leds" V 4800 2200 60  0000 C CNN
-F 2 "" H 4700 2150 60  0001 C CNN
-F 3 "" H 4700 2150 60  0001 C CNN
-	1    4300 1150
-	0    -1   -1   0   
-$EndComp
-Text Label 5900 1900 1    60   ~ 0
-A52
-Text Label 6000 1900 1    60   ~ 0
-A53
-Text Label 6100 1900 1    60   ~ 0
-A54
-Text Label 6200 1900 1    60   ~ 0
-A55
-Text Label 6300 1900 1    60   ~ 0
-A56
-Text Label 6400 1900 1    60   ~ 0
-A57
-Text Label 6500 1900 1    60   ~ 0
-A58
-Text Label 6600 1900 1    60   ~ 0
-A59
-Text Label 6700 1900 1    60   ~ 0
-A60
-Text Label 6800 1900 1    60   ~ 0
-A61
-Text Label 6900 1900 1    60   ~ 0
-A62
-Text Label 7000 1900 1    60   ~ 0
-A63
-Text Label 7100 1900 1    60   ~ 0
-A64
 Wire Wire Line
 	8900 2950 9900 2950
 Wire Wire Line
@@ -1057,245 +1288,513 @@ Wire Wire Line
 	8900 3550 9900 3550
 Wire Wire Line
 	9900 3650 8900 3650
-Text Label 7550 750  0    60   ~ 0
-K8
-Text Label 7550 850  0    60   ~ 0
-K7
-Text Label 7550 950  0    60   ~ 0
-K6
-Text Label 7550 1050 0    60   ~ 0
-K5
-Text Label 7550 1150 0    60   ~ 0
-K4
-Text Label 7550 1250 0    60   ~ 0
-K3
-Text Label 7550 1350 0    60   ~ 0
-K2
-Text Label 7550 1450 0    60   ~ 0
-K1
-Text Label 9500 2950 0    60   ~ 0
-K1
-Text Label 9500 3050 0    60   ~ 0
-K2
-Text Label 9500 3150 0    60   ~ 0
-K3
-Text Label 9500 3250 0    60   ~ 0
-K4
-Text Label 9500 3350 0    60   ~ 0
-K5
-Text Label 9500 3450 0    60   ~ 0
-K6
-Text Label 9500 3550 0    60   ~ 0
-K7
-Text Label 9500 3650 0    60   ~ 0
-K8
-Text Label 3300 3000 0    60   ~ 0
-A1
-Text Label 3300 3100 0    60   ~ 0
-A2
-Text Label 3300 3200 0    60   ~ 0
-A3
-Text Label 3300 3300 0    60   ~ 0
-A4
-Text Label 3300 3400 0    60   ~ 0
-A5
-Text Label 3300 3500 0    60   ~ 0
-A6
-Text Label 3300 3600 0    60   ~ 0
-A7
-Text Label 3300 3700 0    60   ~ 0
-A8
-Text Label 3300 4150 0    60   ~ 0
-A9
-Text Label 3300 4250 0    60   ~ 0
-A10
-Text Label 3300 4350 0    60   ~ 0
-A11
-Text Label 3300 4450 0    60   ~ 0
-A12
-Text Label 3300 4550 0    60   ~ 0
-A13
-Text Label 3300 4650 0    60   ~ 0
-A14
-Text Label 3300 4750 0    60   ~ 0
-A15
-Text Label 3300 4850 0    60   ~ 0
-A16
-Text Label 3300 5300 0    60   ~ 0
-A17
-Text Label 3300 5400 0    60   ~ 0
-A18
-Text Label 3300 5500 0    60   ~ 0
-A19
-Text Label 3300 5600 0    60   ~ 0
-A20
-Text Label 3300 5700 0    60   ~ 0
-A21
-Text Label 3300 5800 0    60   ~ 0
-A22
-Text Label 3300 5900 0    60   ~ 0
-A23
-Text Label 3300 6000 0    60   ~ 0
-A24
-Text Label 3300 6450 0    60   ~ 0
-A25
-Text Label 3300 6550 0    60   ~ 0
-A26
-Text Label 3300 6650 0    60   ~ 0
-A27
-Text Label 3300 6750 0    60   ~ 0
-A28
-Text Label 3300 6850 0    60   ~ 0
-A29
-Text Label 3300 6950 0    60   ~ 0
-A30
-Text Label 3300 7050 0    60   ~ 0
-A31
-Text Label 3300 7150 0    60   ~ 0
-A32
-Text Label 6300 3000 0    60   ~ 0
-A33
-Text Label 6300 3100 0    60   ~ 0
-A34
-Text Label 6300 3200 0    60   ~ 0
-A35
-Text Label 6300 3300 0    60   ~ 0
-A36
-Text Label 6300 3400 0    60   ~ 0
-A37
-Text Label 6300 3500 0    60   ~ 0
-A38
-Text Label 6300 3600 0    60   ~ 0
-A39
-Text Label 6300 3700 0    60   ~ 0
-A40
-Text Label 6300 4150 0    60   ~ 0
-A41
-Text Label 6300 4250 0    60   ~ 0
-A42
-Text Label 6300 4350 0    60   ~ 0
-A43
-Text Label 6300 4450 0    60   ~ 0
-A44
-Text Label 6300 4550 0    60   ~ 0
-A45
-Text Label 6300 4650 0    60   ~ 0
-A46
-Text Label 6300 4750 0    60   ~ 0
-A47
-Text Label 6300 4850 0    60   ~ 0
-A48
-Text Label 6300 5300 0    60   ~ 0
-A49
-Text Label 6300 5400 0    60   ~ 0
-A50
-Text Label 6300 5500 0    60   ~ 0
-A51
-Text Label 6300 5600 0    60   ~ 0
-A52
-Text Label 6300 5700 0    60   ~ 0
-A53
-Text Label 6300 5800 0    60   ~ 0
-A54
-Text Label 6300 5900 0    60   ~ 0
-A55
-Text Label 6300 6000 0    60   ~ 0
-A56
-Text Label 6300 6450 0    60   ~ 0
-A57
-Text Label 6300 6550 0    60   ~ 0
-A58
-Text Label 6300 6650 0    60   ~ 0
-A59
-Text Label 6300 6750 0    60   ~ 0
-A60
-Text Label 6300 6850 0    60   ~ 0
-A61
-Text Label 6300 6950 0    60   ~ 0
-A62
-Text Label 6300 7050 0    60   ~ 0
-A63
-Text Label 6300 7150 0    60   ~ 0
-A64
+Wire Wire Line
+	1650 3300 1750 3300
+Wire Wire Line
+	1150 3450 1450 3450
+Wire Wire Line
+	1650 3450 1750 3450
+Wire Wire Line
+	1700 3450 1700 3600
+Wire Wire Line
+	1700 3600 1150 3600
+Connection ~ 1700 3450
+$Comp
+L Chevron SW11
+U 1 1 5B2A70D8
+P 1550 5300
+F 0 "SW11" H 1540 5250 39  0000 C CNN
+F 1 "Chevron" H 1550 5400 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 5300 60  0001 C CNN
+F 3 "" H 1650 5300 60  0001 C CNN
+	1    1550 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW12
+U 1 1 5B2A73D8
+P 1550 5450
+F 0 "SW12" H 1540 5400 39  0000 C CNN
+F 1 "Chevron" H 1550 5550 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 5450 60  0001 C CNN
+F 3 "" H 1650 5450 60  0001 C CNN
+	1    1550 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW13
+U 1 1 5B2A76CD
+P 1550 5600
+F 0 "SW13" H 1540 5550 39  0000 C CNN
+F 1 "Chevron" H 1550 5700 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 5600 60  0001 C CNN
+F 3 "" H 1650 5600 60  0001 C CNN
+	1    1550 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW14
+U 1 1 5B2A79C1
+P 1550 5750
+F 0 "SW14" H 1540 5700 39  0000 C CNN
+F 1 "Chevron" H 1550 5850 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 5750 60  0001 C CNN
+F 3 "" H 1650 5750 60  0001 C CNN
+	1    1550 5750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 5300 1450 5300
+Wire Wire Line
+	1300 5450 1450 5450
+Wire Wire Line
+	1300 5600 1450 5600
+Wire Wire Line
+	1300 5750 1450 5750
+Wire Wire Line
+	1650 5300 1750 5300
+Wire Wire Line
+	1650 5450 1750 5450
+Wire Wire Line
+	1650 5600 1750 5600
+Wire Wire Line
+	1650 5750 1750 5750
+$Comp
+L Chevron SW15
+U 1 1 5B2AB872
+P 1550 6450
+F 0 "SW15" H 1540 6400 39  0000 C CNN
+F 1 "Chevron" H 1550 6550 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 6450 60  0001 C CNN
+F 3 "" H 1650 6450 60  0001 C CNN
+	1    1550 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW16
+U 1 1 5B2ABB74
+P 1550 6600
+F 0 "SW16" H 1540 6550 39  0000 C CNN
+F 1 "Chevron" H 1550 6700 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 6600 60  0001 C CNN
+F 3 "" H 1650 6600 60  0001 C CNN
+	1    1550 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW17
+U 1 1 5B2ABE77
+P 1550 6750
+F 0 "SW17" H 1540 6700 39  0000 C CNN
+F 1 "Chevron" H 1550 6850 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 6750 60  0001 C CNN
+F 3 "" H 1650 6750 60  0001 C CNN
+	1    1550 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW18
+U 1 1 5B2AC17B
+P 1550 6900
+F 0 "SW18" H 1540 6850 39  0000 C CNN
+F 1 "Chevron" H 1550 7000 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 1650 6900 60  0001 C CNN
+F 3 "" H 1650 6900 60  0001 C CNN
+	1    1550 6900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 6450 1450 6450
+Wire Wire Line
+	1300 6600 1450 6600
+Wire Wire Line
+	1300 6750 1450 6750
+Wire Wire Line
+	1300 6900 1450 6900
+Wire Wire Line
+	1650 6450 1750 6450
+Wire Wire Line
+	1650 6600 1750 6600
+Wire Wire Line
+	1650 6750 1750 6750
+Wire Wire Line
+	1650 6900 1750 6900
+$Comp
+L Chevron SW31
+U 1 1 5B2B3923
+P 4700 6450
+F 0 "SW31" H 4690 6400 39  0000 C CNN
+F 1 "Chevron" H 4700 6550 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 6450 60  0001 C CNN
+F 3 "" H 4800 6450 60  0001 C CNN
+	1    4700 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW32
+U 1 1 5B2B47C5
+P 4700 6600
+F 0 "SW32" H 4690 6550 39  0000 C CNN
+F 1 "Chevron" H 4700 6700 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 6600 60  0001 C CNN
+F 3 "" H 4800 6600 60  0001 C CNN
+	1    4700 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW33
+U 1 1 5B2B4ACE
+P 4700 6750
+F 0 "SW33" H 4690 6700 39  0000 C CNN
+F 1 "Chevron" H 4700 6850 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 6750 60  0001 C CNN
+F 3 "" H 4800 6750 60  0001 C CNN
+	1    4700 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW34
+U 1 1 5B2B4DF2
+P 4700 6900
+F 0 "SW34" H 4690 6850 39  0000 C CNN
+F 1 "Chevron" H 4700 7000 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 6900 60  0001 C CNN
+F 3 "" H 4800 6900 60  0001 C CNN
+	1    4700 6900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 6450 4600 6450
+Wire Wire Line
+	4500 6600 4600 6600
+Wire Wire Line
+	4500 6750 4600 6750
+Wire Wire Line
+	4500 6900 4600 6900
+Wire Wire Line
+	4800 6450 4900 6450
+Wire Wire Line
+	4800 6600 4900 6600
+Wire Wire Line
+	4800 6750 4900 6750
+Wire Wire Line
+	4800 6900 4900 6900
+$Comp
+L Chevron SW27
+U 1 1 5B2B9757
+P 4700 5300
+F 0 "SW27" H 4690 5250 39  0000 C CNN
+F 1 "Chevron" H 4700 5400 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 5300 60  0001 C CNN
+F 3 "" H 4800 5300 60  0001 C CNN
+	1    4700 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW28
+U 1 1 5B2B9A95
+P 4700 5450
+F 0 "SW28" H 4690 5400 39  0000 C CNN
+F 1 "Chevron" H 4700 5550 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 5450 60  0001 C CNN
+F 3 "" H 4800 5450 60  0001 C CNN
+	1    4700 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW29
+U 1 1 5B2B9DAA
+P 4700 5600
+F 0 "SW29" H 4690 5550 39  0000 C CNN
+F 1 "Chevron" H 4700 5700 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 5600 60  0001 C CNN
+F 3 "" H 4800 5600 60  0001 C CNN
+	1    4700 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW30
+U 1 1 5B2BA0C2
+P 4700 5750
+F 0 "SW30" H 4690 5700 39  0000 C CNN
+F 1 "Chevron" H 4700 5850 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 5750 60  0001 C CNN
+F 3 "" H 4800 5750 60  0001 C CNN
+	1    4700 5750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 5300 4600 5300
+Wire Wire Line
+	4500 5450 4600 5450
+Wire Wire Line
+	4500 5600 4600 5600
+Wire Wire Line
+	4500 5750 4600 5750
+Wire Wire Line
+	4800 5750 4900 5750
+Wire Wire Line
+	4800 5600 4900 5600
+Wire Wire Line
+	4800 5450 4900 5450
+Wire Wire Line
+	4800 5300 4900 5300
+$Comp
+L Chevron SW23
+U 1 1 5B2BE734
+P 4700 4150
+F 0 "SW23" H 4690 4100 39  0000 C CNN
+F 1 "Chevron" H 4700 4250 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 4150 60  0001 C CNN
+F 3 "" H 4800 4150 60  0001 C CNN
+	1    4700 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW24
+U 1 1 5B2BEA60
+P 4700 4300
+F 0 "SW24" H 4690 4250 39  0000 C CNN
+F 1 "Chevron" H 4700 4400 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 4300 60  0001 C CNN
+F 3 "" H 4800 4300 60  0001 C CNN
+	1    4700 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW25
+U 1 1 5B2BED81
+P 4700 4450
+F 0 "SW25" H 4690 4400 39  0000 C CNN
+F 1 "Chevron" H 4700 4550 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 4450 60  0001 C CNN
+F 3 "" H 4800 4450 60  0001 C CNN
+	1    4700 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW26
+U 1 1 5B2BF0A9
+P 4700 4600
+F 0 "SW26" H 4690 4550 39  0000 C CNN
+F 1 "Chevron" H 4700 4700 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 4600 60  0001 C CNN
+F 3 "" H 4800 4600 60  0001 C CNN
+	1    4700 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 4150 4600 4150
+Wire Wire Line
+	4500 4300 4600 4300
+Wire Wire Line
+	4500 4450 4600 4450
+Wire Wire Line
+	4500 4600 4600 4600
+Wire Wire Line
+	4800 4150 4900 4150
+Wire Wire Line
+	4800 4300 4900 4300
+Wire Wire Line
+	4800 4450 4900 4450
+Wire Wire Line
+	4800 4600 4900 4600
+$Comp
+L Chevron SW19
+U 1 1 5B2C388A
+P 4700 3000
+F 0 "SW19" H 4690 2950 39  0000 C CNN
+F 1 "Chevron" H 4700 3100 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 3000 60  0001 C CNN
+F 3 "" H 4800 3000 60  0001 C CNN
+	1    4700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW20
+U 1 1 5B2C3BCA
+P 4700 3150
+F 0 "SW20" H 4690 3100 39  0000 C CNN
+F 1 "Chevron" H 4700 3250 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 3150 60  0001 C CNN
+F 3 "" H 4800 3150 60  0001 C CNN
+	1    4700 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW21
+U 1 1 5B2C3EF7
+P 4700 3300
+F 0 "SW21" H 4690 3250 39  0000 C CNN
+F 1 "Chevron" H 4700 3400 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 3300 60  0001 C CNN
+F 3 "" H 4800 3300 60  0001 C CNN
+	1    4700 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW22
+U 1 1 5B2C4227
+P 4700 3450
+F 0 "SW22" H 4690 3400 39  0000 C CNN
+F 1 "Chevron" H 4700 3550 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 4800 3450 60  0001 C CNN
+F 3 "" H 4800 3450 60  0001 C CNN
+	1    4700 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 3000 4600 3000
+Wire Wire Line
+	4500 3150 4600 3150
+Wire Wire Line
+	4500 3300 4600 3300
+Wire Wire Line
+	4500 3450 4600 3450
+Wire Wire Line
+	4800 3450 4900 3450
+Wire Wire Line
+	4800 3300 4900 3300
+Wire Wire Line
+	4800 3150 4900 3150
+Wire Wire Line
+	4800 3000 4900 3000
+$Comp
+L Chevron SW35
+U 1 1 5B2D02EA
+P 7850 2950
+F 0 "SW35" H 7840 2900 39  0000 C CNN
+F 1 "Chevron" H 7850 3050 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 7950 2950 60  0001 C CNN
+F 3 "" H 7950 2950 60  0001 C CNN
+	1    7850 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW36
+U 1 1 5B2D0976
+P 7850 3100
+F 0 "SW36" H 7840 3050 39  0000 C CNN
+F 1 "Chevron" H 7850 3200 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 7950 3100 60  0001 C CNN
+F 3 "" H 7950 3100 60  0001 C CNN
+	1    7850 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW37
+U 1 1 5B2D0CB3
+P 7850 3250
+F 0 "SW37" H 7840 3200 39  0000 C CNN
+F 1 "Chevron" H 7850 3350 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 7950 3250 60  0001 C CNN
+F 3 "" H 7950 3250 60  0001 C CNN
+	1    7850 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Chevron SW38
+U 1 1 5B2D0FEF
+P 7850 3400
+F 0 "SW38" H 7840 3350 39  0000 C CNN
+F 1 "Chevron" H 7850 3500 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 7950 3400 60  0001 C CNN
+F 3 "" H 7950 3400 60  0001 C CNN
+	1    7850 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7650 2950 7750 2950
+Wire Wire Line
+	7650 3100 7750 3100
+Wire Wire Line
+	7650 3250 7750 3250
+Wire Wire Line
+	7650 3400 7750 3400
+Wire Wire Line
+	7950 2950 8050 2950
+Wire Wire Line
+	7950 3100 8050 3100
+Wire Wire Line
+	7950 3250 8050 3250
+Wire Wire Line
+	7950 3400 8050 3400
+$Comp
+L Chevron SW39
+U 1 1 5B2D4402
+P 10050 3950
+F 0 "SW39" H 10040 3900 39  0000 C CNN
+F 1 "Chevron" H 10050 4050 60  0001 C CNN
+F 2 "alex-library:Chevron-E1" H 10150 3950 60  0001 C CNN
+F 3 "" H 10150 3950 60  0001 C CNN
+	1    10050 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 3800 9650 3800
+Wire Wire Line
+	9650 3800 9650 3950
+Wire Wire Line
+	9650 3950 9950 3950
+Wire Wire Line
+	10150 3950 10250 3950
 $Sheet
-S 1750 5250 900  950 
-U 5B2280E3
-F0 "BlockRowAnode3" 60
-F1 "Block Row Anode 3.sch" 60
-F2 "SRCLK" I L 1750 5300 60 
-F3 "RCLK" I L 1750 5450 60 
-F4 "SER" I L 1750 5600 60 
-F5 "R_QA" O R 2650 5300 60 
-F6 "R_QB" O R 2650 5400 60 
-F7 "R_QC" O R 2650 5500 60 
-F8 "R_QD" O R 2650 5600 60 
-F9 "R_QE" O R 2650 5700 60 
-F10 "R_QF" O R 2650 5800 60 
-F11 "R_QG" O R 2650 5900 60 
-F12 "R_QH" O R 2650 6000 60 
-F13 "R_QH'" O R 2650 6150 60 
-F14 "~SRCLR" I L 1750 5750 60 
+S 8050 2900 850  950 
+U 5B242BDA
+F0 "BlockLayersCatodes" 60
+F1 "Block Layers Catodes.sch" 60
+F2 "SRCLK" I L 8050 2950 60 
+F3 "RCLK" I L 8050 3100 60 
+F4 "SER" I L 8050 3250 60 
+F5 "L_QA" O R 8900 2950 60 
+F6 "L_QB" O R 8900 3050 60 
+F7 "L_QC" O R 8900 3150 60 
+F8 "L_QD" O R 8900 3250 60 
+F9 "L_QE" O R 8900 3350 60 
+F10 "L_QF" O R 8900 3450 60 
+F11 "L_QG" O R 8900 3550 60 
+F12 "L_QH" O R 8900 3650 60 
+F13 "R_QH'" O R 8900 3800 60 
+F14 "~SRCLR" I L 8050 3400 60 
 $EndSheet
-$Sheet
-S 1750 4100 900  950 
-U 5B22654D
-F0 "BlockRowAnode2" 60
-F1 "Block Row Anode 2.sch" 60
-F2 "SRCLK" I L 1750 4150 60 
-F3 "RCLK" I L 1750 4300 60 
-F4 "SER" I L 1750 4450 60 
-F5 "R_QA" O R 2650 4150 60 
-F6 "R_QB" O R 2650 4250 60 
-F7 "R_QC" O R 2650 4350 60 
-F8 "R_QD" O R 2650 4450 60 
-F9 "R_QE" O R 2650 4550 60 
-F10 "R_QF" O R 2650 4650 60 
-F11 "R_QG" O R 2650 4750 60 
-F12 "R_QH" O R 2650 4850 60 
-F13 "R_QH'" O R 2650 5000 60 
-F14 "~SRCLR" I L 1750 4600 60 
-$EndSheet
-Text HLabel 1500 3450 0    60   Input ~ 0
-~SRCLR_IN
 Wire Wire Line
-	1500 3450 1750 3450
+	1300 4150 1450 4150
 Wire Wire Line
-	1600 3450 1600 3650
+	1300 4300 1450 4300
 Wire Wire Line
-	1600 3650 1450 3650
-Connection ~ 1600 3450
-Text GLabel 1450 3650 0    60   Output ~ 0
-~SRCLR_CMD
-Text GLabel 1500 4600 0    60   Input ~ 0
-~SRCLR_CMD
+	1300 4450 1450 4450
 Wire Wire Line
-	1500 4600 1750 4600
-Text GLabel 1500 5750 0    60   Input ~ 0
-~SRCLR_CMD
+	1300 4600 1450 4600
 Wire Wire Line
-	1500 5750 1750 5750
-Text GLabel 1500 6900 0    60   Input ~ 0
-~SRCLR_CMD
+	1650 4600 1750 4600
 Wire Wire Line
-	1500 6900 1750 6900
-Text GLabel 4650 6900 0    60   Input ~ 0
-~SRCLR_CMD
+	1650 4450 1750 4450
 Wire Wire Line
-	4650 6900 4900 6900
-Text GLabel 4650 5750 0    60   Input ~ 0
-~SRCLR_CMD
+	1650 4300 1750 4300
 Wire Wire Line
-	4650 5750 4900 5750
-Text GLabel 4650 4600 0    60   Input ~ 0
-~SRCLR_CMD
+	1650 4150 1750 4150
+Text GLabel 1700 2700 2    60   Output ~ 0
+SRCLK
+Text GLabel 1700 2550 2    60   Output ~ 0
+RCLK
 Wire Wire Line
-	4650 4600 4900 4600
-Text GLabel 4650 3450 0    60   Input ~ 0
-~SRCLR_CMD
+	1000 3300 1450 3300
 Wire Wire Line
-	4650 3450 4900 3450
-Text GLabel 7800 3400 0    60   Input ~ 0
-~SRCLR_CMD
+	1000 3000 1300 3000
 Wire Wire Line
-	7800 3400 8050 3400
+	1000 3150 1300 3150
+Wire Wire Line
+	1500 3000 1750 3000
+Wire Wire Line
+	1500 3150 1750 3150
+Wire Wire Line
+	1700 2700 1650 2700
+Wire Wire Line
+	1650 2700 1650 3000
+Connection ~ 1650 3000
+Wire Wire Line
+	1700 2550 1600 2550
+Wire Wire Line
+	1600 2550 1600 3150
+Connection ~ 1600 3150
 $EndSCHEMATC
