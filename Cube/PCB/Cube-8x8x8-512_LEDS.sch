@@ -38,10 +38,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 12
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Logique de commande Cube 8x8x8 512 Leds"
+Date "2018-06-21"
+Rev "1"
+Comp "FabLab19"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -271,12 +271,6 @@ Wire Wire Line
 	9150 2050 9150 1650
 Wire Wire Line
 	9150 1650 9350 1650
-Wire Wire Line
-	8550 1850 8800 1850
-Wire Wire Line
-	8800 1850 8800 1550
-Wire Wire Line
-	8800 1550 9350 1550
 $Comp
 L R R1
 U 1 1 5B2396A1
@@ -621,5 +615,12 @@ Wire Wire Line
 Wire Wire Line
 	7050 1250 6900 1250
 Wire Wire Line
-	6900 1250 6900 1600
+	6900 1250 6900 1800
+Wire Wire Line
+	6900 1800 8800 1800
+Wire Wire Line
+	8800 1800 8800 1550
+Wire Wire Line
+	8800 1550 9350 1550
+Connection ~ 6900 1600
 $EndSCHEMATC

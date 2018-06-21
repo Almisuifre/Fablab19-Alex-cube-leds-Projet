@@ -37,21 +37,21 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 11 12
-Title ""
-Date ""
-Rev ""
-Comp ""
+Sheet 10 12
+Title "Logique de commande Cube 8x8x8 512 Leds"
+Date "2018-06-21"
+Rev "1"
+Comp "FabLab19"
 Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L SN74HC595 U9
+L SN74HC595 U8
 U 1 1 5B22F3F9
 P 4900 3650
-F 0 "U9" H 4700 4200 60  0000 C CNN
+F 0 "U8" H 4700 4200 60  0000 C CNN
 F 1 "SN74HC595" H 4900 3100 60  0000 C CNN
 F 2 "alex-library:DIP-16_W7.62mm_LongPads" H 5250 3550 60  0001 C CNN
 F 3 "" H 5250 3550 60  0001 C CNN
@@ -59,10 +59,10 @@ F 3 "" H 5250 3550 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C11
+L C C10
 U 1 1 5B22F3FA
 P 3750 3000
-F 0 "C11" H 3775 3100 50  0000 L CNN
+F 0 "C10" H 3775 3100 50  0000 L CNN
 F 1 "100nF" H 3775 2900 50  0000 L CNN
 F 2 "alex-library:C-P_5.08-L_7.5-H_6-P_2.5" H 3788 2850 50  0001 C CNN
 F 3 "" H 3750 3000 50  0001 C CNN

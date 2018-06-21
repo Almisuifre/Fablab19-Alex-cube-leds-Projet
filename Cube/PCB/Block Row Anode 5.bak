@@ -38,10 +38,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 12
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Logique de commande Cube 8x8x8 512 Leds"
+Date "2018-06-21"
+Rev "1"
+Comp "FabLab19"
 Comment1 ""
 Comment2 ""
 Comment3 ""

@@ -38,10 +38,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 12
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Logique de commande Cube 8x8x8 512 Leds"
+Date "2018-06-21"
+Rev "1"
+Comp "FabLab19"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -623,17 +623,6 @@ Text Label 5700 1900 1    60   ~ 0
 A50
 Text Label 5800 1900 1    60   ~ 0
 A51
-$Comp
-L Matrice_8x8x8_512leds M1
-U 1 1 5B33DA12
-P 4300 1150
-F 0 "M1" V 4750 3925 60  0000 C CNN
-F 1 "Matrice_8x8x8_512leds" V 4800 2200 60  0000 C CNN
-F 2 "alex-library:Matrice-led-8x8x8_512-Leds" H 4700 2150 60  0001 C CNN
-F 3 "" H 4700 2150 60  0001 C CNN
-	1    4300 1150
-	0    -1   -1   0   
-$EndComp
 Text Label 5900 1900 1    60   ~ 0
 A52
 Text Label 6000 1900 1    60   ~ 0
@@ -1797,4 +1786,92 @@ Wire Wire Line
 Wire Wire Line
 	1500 2700 1750 2700
 Connection ~ 1500 3450
+$Comp
+L Conn_01x08_Male J14
+U 1 1 5B2BEF24
+P 7200 1150
+F 0 "J14" H 7200 1550 50  0000 C CNN
+F 1 "Conn_01x08_Male" H 7200 650 50  0000 C CNN
+F 2 "alex-library:Connect-8pin" H 7200 1150 50  0001 C CNN
+F 3 "" H 7200 1150 50  0001 C CNN
+	1    7200 1150
+	1    0    0    1   
+$EndComp
+$Comp
+L Conn_01x10_Male J7
+U 1 1 5B2B61E9
+P 1200 1550
+F 0 "J7" H 1100 1550 50  0000 C CNN
+F 1 "Conn_01x10_Male" H 800 1650 50  0000 C CNN
+F 2 "alex-library:Connect-10pin" H 1200 1550 50  0001 C CNN
+F 3 "" H 1200 1550 50  0001 C CNN
+	1    1200 1550
+	0    -1   1    0   
+$EndComp
+$Comp
+L Conn_01x10_Male J8
+U 1 1 5B2BBC77
+P 2200 1550
+F 0 "J8" H 2150 1550 50  0000 C CNN
+F 1 "Conn_01x10_Male" H 1850 1650 50  0000 C CNN
+F 2 "alex-library:Connect-10pin" H 2200 1550 50  0001 C CNN
+F 3 "" H 2200 1550 50  0001 C CNN
+	1    2200 1550
+	0    -1   1    0   
+$EndComp
+$Comp
+L Conn_01x10_Male J9
+U 1 1 5B2BCBF6
+P 3200 1550
+F 0 "J9" H 3150 1550 50  0000 C CNN
+F 1 "Conn_01x10_Male" H 2850 1650 50  0000 C CNN
+F 2 "alex-library:Connect-10pin" H 3200 1550 50  0001 C CNN
+F 3 "" H 3200 1550 50  0001 C CNN
+	1    3200 1550
+	0    -1   1    0   
+$EndComp
+$Comp
+L Conn_01x10_Male J10
+U 1 1 5B2BCF48
+P 4200 1550
+F 0 "J10" H 4100 1550 50  0000 C CNN
+F 1 "Conn_01x10_Male" H 3850 1650 50  0000 C CNN
+F 2 "alex-library:Connect-10pin" H 4200 1550 50  0001 C CNN
+F 3 "" H 4200 1550 50  0001 C CNN
+	1    4200 1550
+	0    -1   1    0   
+$EndComp
+$Comp
+L Conn_01x10_Male J11
+U 1 1 5B2BE067
+P 5200 1550
+F 0 "J11" H 5100 1550 50  0000 C CNN
+F 1 "Conn_01x10_Male" H 4850 1650 50  0000 C CNN
+F 2 "alex-library:Connect-10pin" H 5200 1550 50  0001 C CNN
+F 3 "" H 5200 1550 50  0001 C CNN
+	1    5200 1550
+	0    -1   1    0   
+$EndComp
+$Comp
+L Conn_01x04_Male J13
+U 1 1 5B2BE6EF
+P 6900 1550
+F 0 "J13" H 6800 1550 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 6550 1650 50  0000 C CNN
+F 2 "alex-library:Connect-4pin" H 6900 1550 50  0001 C CNN
+F 3 "" H 6900 1550 50  0001 C CNN
+	1    6900 1550
+	0    -1   1    0   
+$EndComp
+$Comp
+L Conn_01x10_Male J12
+U 1 1 5B2BE3BD
+P 6200 1550
+F 0 "J12" H 6100 1550 50  0000 C CNN
+F 1 "Conn_01x10_Male" H 5850 1650 50  0000 C CNN
+F 2 "alex-library:Connect-10pin" H 6200 1550 50  0001 C CNN
+F 3 "" H 6200 1550 50  0001 C CNN
+	1    6200 1550
+	0    -1   1    0   
+$EndComp
 $EndSCHEMATC
