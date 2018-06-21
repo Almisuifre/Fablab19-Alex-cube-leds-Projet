@@ -1724,8 +1724,6 @@ Wire Wire Line
 Wire Wire Line
 	7650 3400 7750 3400
 Wire Wire Line
-	7950 2950 8050 2950
-Wire Wire Line
 	7950 3100 8050 3100
 Wire Wire Line
 	7950 3250 8050 3250
@@ -1874,4 +1872,6 @@ F 3 "" H 6200 1550 50  0001 C CNN
 	1    6200 1550
 	0    -1   1    0   
 $EndComp
+Wire Wire Line
+	7950 2950 8050 2950
 $EndSCHEMATC
