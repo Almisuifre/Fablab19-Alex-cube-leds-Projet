@@ -1,0 +1,2634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/PORTABLE/Documents/GitProjets/Fablab19-Alex-cube-leds-Projet/Cube/PCB/Cube-8x8x8-512_LEDS.sch</source>
+    <date>25/06/2018 18:51:14</date>
+    <tool>Eeschema 4.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Cube-8x8x8-512_LEDS.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Alimentation/" tstamps="/5B220C53/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Alimentation.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Matrice/" tstamps="/5B22355E/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Matrice.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Block Row Anode 1.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Block Row Anode 4.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Block Row Anode 5.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Block Row Anode 6.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Block Row Anode 7.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Block Row Anode 8.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Block Row Anode 3.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Block Row Anode 2.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/">
+      <title_block>
+        <title>Logique de commande Cube 8x8x8 512 Leds</title>
+        <company>FabLab19</company>
+        <rev>1</rev>
+        <date>2018-06-21</date>
+        <source>Block Layers Catodes.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x02_Male</value>
+      <footprint>alex-library:Connect-2pin</footprint>
+      <libsource lib="conn" part="Conn_01x02_Male"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B220BC5</tstamp>
+    </comp>
+    <comp ref="XA1">
+      <value>Arduino_Uno_Shield</value>
+      <footprint>alex-library:Arduino_Uno_Shield</footprint>
+      <libsource lib="alex-library" part="Arduino_Uno_Shield"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B270BF1</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x06_Male</value>
+      <footprint>alex-library:Connect-6pin</footprint>
+      <libsource lib="conn" part="Conn_01x06_Male"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2604EF</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2396A1</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B23982B</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2399AD</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x09_Male</value>
+      <footprint>alex-library:Connect-9pin</footprint>
+      <libsource lib="conn" part="Conn_01x09_Male"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2DB77B</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04_Male</value>
+      <footprint>alex-library:Connect-4pin</footprint>
+      <libsource lib="conn" part="Conn_01x04_Male"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2DC416</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x10_Male</value>
+      <footprint>alex-library:Connect-10pin</footprint>
+      <libsource lib="conn" part="Conn_01x10_Male"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2DD162</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x06_Male</value>
+      <footprint>alex-library:Connect-6pin</footprint>
+      <libsource lib="conn" part="Conn_01x06_Male"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B2DFA20</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4007</value>
+      <footprint>alex-library:D_DO-41_Pas12.70mm_Horizontal</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B220C61</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100µF/25V</value>
+      <footprint>alex-library:CP_Radial_Dia8.0mm_Pas3.50mm</footprint>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B220D0F</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B220D39</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LM317_A</value>
+      <footprint>alex-library:TO-220_Vertical</footprint>
+      <libsource lib="alex-library" part="LM317_A"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B221191</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N4007</value>
+      <footprint>alex-library:D_DO-41_Pas12.70mm_Horizontal</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B2212A2</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B221619</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>240</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B22167B</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>390</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B221803</tstamp>
+    </comp>
+    <comp ref="RV1">
+      <value>470</value>
+      <footprint>alex-library:Potentiometer_Trimmer_Bourns_3296X</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B221B9C</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>1N4007</value>
+      <footprint>alex-library:D_DO-41_Pas12.70mm_Horizontal</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Alimentation/" tstamps="/5B220C53/"/>
+      <tstamp>5B221ED0</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B292F00</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B293D27</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B297A9C</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B29B580</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2A0BDC</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2A0ECA</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2A11AF</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2A149B</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2A70D8</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2A73D8</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2A76CD</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2A79C1</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2AB872</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2ABB74</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2ABE77</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2AC17B</tstamp>
+    </comp>
+    <comp ref="SW31">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2B3923</tstamp>
+    </comp>
+    <comp ref="SW32">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2B47C5</tstamp>
+    </comp>
+    <comp ref="SW33">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2B4ACE</tstamp>
+    </comp>
+    <comp ref="SW34">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2B4DF2</tstamp>
+    </comp>
+    <comp ref="SW27">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2B9757</tstamp>
+    </comp>
+    <comp ref="SW28">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2B9A95</tstamp>
+    </comp>
+    <comp ref="SW29">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2B9DAA</tstamp>
+    </comp>
+    <comp ref="SW30">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BA0C2</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BE734</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BEA60</tstamp>
+    </comp>
+    <comp ref="SW25">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BED81</tstamp>
+    </comp>
+    <comp ref="SW26">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BF0A9</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2C388A</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2C3BCA</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2C3EF7</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2C4227</tstamp>
+    </comp>
+    <comp ref="SW35">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2D02EA</tstamp>
+    </comp>
+    <comp ref="SW36">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2D0976</tstamp>
+    </comp>
+    <comp ref="SW37">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2D0CB3</tstamp>
+    </comp>
+    <comp ref="SW38">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2D0FEF</tstamp>
+    </comp>
+    <comp ref="SW39">
+      <value>Chevron</value>
+      <footprint>alex-library:Chevron-E1</footprint>
+      <libsource lib="alex-library" part="Chevron"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2D4402</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value>Conn_01x08_Male</value>
+      <footprint>alex-library:Connect-8pin</footprint>
+      <libsource lib="conn" part="Conn_01x08_Male"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BEF24</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x10_Male</value>
+      <footprint>alex-library:Connect-10pin</footprint>
+      <libsource lib="conn" part="Conn_01x10_Male"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2B61E9</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x10_Male</value>
+      <footprint>alex-library:Connect-10pin</footprint>
+      <libsource lib="conn" part="Conn_01x10_Male"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BBC77</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x10_Male</value>
+      <footprint>alex-library:Connect-10pin</footprint>
+      <libsource lib="conn" part="Conn_01x10_Male"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BCBF6</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x10_Male</value>
+      <footprint>alex-library:Connect-10pin</footprint>
+      <libsource lib="conn" part="Conn_01x10_Male"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BCF48</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x10_Male</value>
+      <footprint>alex-library:Connect-10pin</footprint>
+      <libsource lib="conn" part="Conn_01x10_Male"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BE067</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x04_Male</value>
+      <footprint>alex-library:Connect-4pin</footprint>
+      <libsource lib="conn" part="Conn_01x04_Male"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BE6EF</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x10_Male</value>
+      <footprint>alex-library:Connect-10pin</footprint>
+      <libsource lib="conn" part="Conn_01x10_Male"/>
+      <sheetpath names="/Matrice/" tstamps="/5B22355E/"/>
+      <tstamp>5B2BE3BD</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>SN74HC595</value>
+      <footprint>alex-library:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="alex-library" part="SN74HC595"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B247E1E</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B247E2A</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B247E50</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B247E5B</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B247E61</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B247E67</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B247E70</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B247E78</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B223B39</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode1/" tstamps="/5B22355E/5B2235D3/"/>
+      <tstamp>5B247E80</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>SN74HC595</value>
+      <footprint>alex-library:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="alex-library" part="SN74HC595"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B232740</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B232741</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B232746</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B232747</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B232748</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B232749</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B23274A</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B23274B</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B23274C</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode4/" tstamps="/5B22355E/5B22BED5/"/>
+      <tstamp>5B23274D</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>SN74HC595</value>
+      <footprint>alex-library:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="alex-library" part="SN74HC595"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BDC</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BDD</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BE2</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BE3</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BE4</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BE5</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BE6</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BE7</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BE8</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode5/" tstamps="/5B22355E/5B22E11D/"/>
+      <tstamp>5B234BE9</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>SN74HC595</value>
+      <footprint>alex-library:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="alex-library" part="SN74HC595"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B235932</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B235933</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B235938</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B235939</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B23593A</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B23593B</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B23593C</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B23593D</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B23593E</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode6/" tstamps="/5B22355E/5B22E133/"/>
+      <tstamp>5B23593F</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>SN74HC595</value>
+      <footprint>alex-library:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="alex-library" part="SN74HC595"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B236688</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B236689</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B23668E</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B23668F</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B236690</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B236691</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B236692</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B236693</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B236694</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode7/" tstamps="/5B22355E/5B22E149/"/>
+      <tstamp>5B236695</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>SN74HC595</value>
+      <footprint>alex-library:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="alex-library" part="SN74HC595"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373DE</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373DF</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373E4</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373E5</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373E6</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373E7</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373E8</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373E9</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373EA</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode8/" tstamps="/5B22355E/5B22E15F/"/>
+      <tstamp>5B2373EB</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>SN74HC595</value>
+      <footprint>alex-library:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="alex-library" part="SN74HC595"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F3F9</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F3FA</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F3FF</tstamp>
+    </comp>
+    <comp ref="R53">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F400</tstamp>
+    </comp>
+    <comp ref="R54">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F401</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F402</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F403</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F404</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F405</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode3/" tstamps="/5B22355E/5B2280E3/"/>
+      <tstamp>5B22F406</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>SN74HC595</value>
+      <footprint>alex-library:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="alex-library" part="SN74HC595"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D783</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D784</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D789</tstamp>
+    </comp>
+    <comp ref="R61">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D78A</tstamp>
+    </comp>
+    <comp ref="R62">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D78B</tstamp>
+    </comp>
+    <comp ref="R63">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D78C</tstamp>
+    </comp>
+    <comp ref="R64">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D78D</tstamp>
+    </comp>
+    <comp ref="R65">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D78E</tstamp>
+    </comp>
+    <comp ref="R66">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D78F</tstamp>
+    </comp>
+    <comp ref="R67">
+      <value>R</value>
+      <footprint>alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/Matrice/BlockRowAnode2/" tstamps="/5B22355E/5B22654D/"/>
+      <tstamp>5B22D790</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>SN74HC595</value>
+      <footprint>alex-library:DIP-16_W7.62mm_LongPads</footprint>
+      <libsource lib="alex-library" part="SN74HC595"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B243FAC</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>alex-library:C-P_5.08-L_7.5-H_6-P_2.5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B243FAD</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>PN2222A</value>
+      <footprint>alex-library:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="transistors" part="PN2222A"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B24412E</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>PN2222A</value>
+      <footprint>alex-library:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="transistors" part="PN2222A"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B244389</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>PN2222A</value>
+      <footprint>alex-library:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="transistors" part="PN2222A"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B244423</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>PN2222A</value>
+      <footprint>alex-library:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="transistors" part="PN2222A"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B244433</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>PN2222A</value>
+      <footprint>alex-library:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="transistors" part="PN2222A"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B24454B</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>PN2222A</value>
+      <footprint>alex-library:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="transistors" part="PN2222A"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B24455B</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>PN2222A</value>
+      <footprint>alex-library:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="transistors" part="PN2222A"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B24456B</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>PN2222A</value>
+      <footprint>alex-library:TO-92_Inline_Narrow_Oval</footprint>
+      <libsource lib="transistors" part="PN2222A"/>
+      <sheetpath names="/Matrice/BlockLayersCatodes/" tstamps="/5B22355E/5B242BDA/"/>
+      <tstamp>5B24457B</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="alex-library" part="Arduino_Uno_Shield">
+      <description>Shield for Arduino Uno</description>
+      <docs>https://store.arduino.cc/arduino-uno-rev3</docs>
+      <footprints>
+        <fp>Arduino_Uno_Shield</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">XA</field>
+        <field name="Value">Arduino_Uno_Shield</field>
+      </fields>
+      <pins>
+        <pin num="3V3" name="3.3V" type="power_in"/>
+        <pin num="5V1" name="5V" type="power_in"/>
+        <pin num="5V2" name="SPI_5V" type="power_in"/>
+        <pin num="A0" name="A0" type="BiDi"/>
+        <pin num="A1" name="A1" type="BiDi"/>
+        <pin num="A2" name="A2" type="BiDi"/>
+        <pin num="A3" name="A3" type="BiDi"/>
+        <pin num="A4" name="A4" type="BiDi"/>
+        <pin num="A5" name="A5" type="BiDi"/>
+        <pin num="AREF" name="AREF" type="input"/>
+        <pin num="D0" name="D0_RX0" type="BiDi"/>
+        <pin num="D1" name="D1_TX0" type="BiDi"/>
+        <pin num="D2" name="D2_INT0" type="BiDi"/>
+        <pin num="D3" name="D3_INT1" type="BiDi"/>
+        <pin num="D4" name="D4" type="BiDi"/>
+        <pin num="D5" name="D5" type="BiDi"/>
+        <pin num="D6" name="D6" type="BiDi"/>
+        <pin num="D7" name="D7" type="BiDi"/>
+        <pin num="D8" name="D8" type="BiDi"/>
+        <pin num="D9" name="D9" type="BiDi"/>
+        <pin num="D10" name="D10_CS" type="BiDi"/>
+        <pin num="D11" name="D11" type="BiDi"/>
+        <pin num="D12" name="D12" type="BiDi"/>
+        <pin num="D13" name="D13" type="BiDi"/>
+        <pin num="GND1" name="GND" type="power_in"/>
+        <pin num="GND2" name="GND" type="power_in"/>
+        <pin num="GND3" name="GND" type="power_in"/>
+        <pin num="GND4" name="SPI_GND" type="power_in"/>
+        <pin num="IORF" name="IOREF" type="output"/>
+        <pin num="MISO" name="SPI_MISO" type="input"/>
+        <pin num="MOSI" name="SPI_MOSI" type="output"/>
+        <pin num="RST1" name="RESET" type="openCol"/>
+        <pin num="RST2" name="SPI_RESET" type="openCol"/>
+        <pin num="SCK" name="SPI_SCK" type="output"/>
+        <pin num="SCL" name="SCL" type="BiDi"/>
+        <pin num="SDA" name="SDA" type="BiDi"/>
+        <pin num="VIN" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="alex-library" part="Chevron">
+      <description>Chevron</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Chevron</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x06_Male">
+      <description>Generic connector, single row, 01x06</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x08_Male">
+      <description>Generic connector, single row, 01x08</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x09_Male">
+      <description>Generic connector, single row, 01x09</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x09_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x10_Male">
+      <description>Generic connector, single row, 01x10</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="alex-library" part="LM317_A">
+      <aliases>
+        <alias>LM317A-SMD</alias>
+        <alias>LM317A</alias>
+      </aliases>
+      <description>1A 35V Adjustable Linear Regulator, SOT-89/SOT-223/TO-220/TO-252/TO-263, Farnell 9493301</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm317a.pdf</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+        <fp>SOT?89*</fp>
+        <fp>TO?220*</fp>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM317_A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="transistors" part="PN2222A">
+      <description>40V Vce, 1A Ic, NPN, General Purpose Transistor, TO-92</description>
+      <docs>http://www.fairchildsemi.com/ds/PN/PN2222A.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PN2222A</field>
+        <field name="Footprint">TO_SOT_Packages_THT:TO-92_Molded_Narrow</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="POT">
+      <description>Potentiometer</description>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="alex-library" part="SN74HC595">
+      <description>SN74HC595N -  Registre à décalage, 74HC595, 8 bit, 16 Broches</description>
+      <docs>http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=SN74HC595&amp;&amp;fileType=pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74HC595</field>
+      </fields>
+      <pins>
+        <pin num="1" name="QB" type="output"/>
+        <pin num="2" name="QC" type="output"/>
+        <pin num="3" name="QD" type="output"/>
+        <pin num="4" name="QE" type="output"/>
+        <pin num="5" name="QF" type="output"/>
+        <pin num="6" name="QG" type="output"/>
+        <pin num="7" name="QH" type="output"/>
+        <pin num="8" name="GND" type="input"/>
+        <pin num="9" name="QH'" type="output"/>
+        <pin num="10" name="~SRCLR" type="input"/>
+        <pin num="11" name="SRCLK" type="input"/>
+        <pin num="12" name="RCLK" type="input"/>
+        <pin num="13" name="~OE" type="input"/>
+        <pin num="14" name="SER" type="input"/>
+        <pin num="15" name="QA" type="output"/>
+        <pin num="16" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="alex-library">
+      <uri>C:\Users\PORTABLE\Documents\GitProjets\Fablab19-Alex-Kicad-Library\alex-ibrary\alex-library.lib</uri>
+    </library>
+    <library logical="transistors">
+      <uri>C:\Program Files\KiCad\share\kicad\library\transistors.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="U10" pin="16"/>
+      <node ref="C6" pin="1"/>
+      <node ref="U4" pin="16"/>
+      <node ref="U8" pin="16"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="J6" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="U3" pin="16"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="U6" pin="16"/>
+      <node ref="U7" pin="16"/>
+      <node ref="C9" pin="1"/>
+      <node ref="U9" pin="16"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="U5" pin="16"/>
+      <node ref="U2" pin="16"/>
+      <node ref="C4" pin="1"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="2" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2"/>
+      <node ref="XA1" pin="SCL"/>
+    </net>
+    <net code="3" name="Net-(J3-Pad3)">
+      <node ref="J3" pin="3"/>
+      <node ref="XA1" pin="SDA"/>
+    </net>
+    <net code="4" name="Net-(J4-Pad3)">
+      <node ref="XA1" pin="D3"/>
+      <node ref="J4" pin="3"/>
+    </net>
+    <net code="5" name="Net-(J4-Pad5)">
+      <node ref="XA1" pin="D5"/>
+      <node ref="J4" pin="5"/>
+    </net>
+    <net code="6" name="Net-(J4-Pad7)">
+      <node ref="J4" pin="7"/>
+      <node ref="XA1" pin="D7"/>
+    </net>
+    <net code="7" name="Net-(J4-Pad9)">
+      <node ref="XA1" pin="D9"/>
+      <node ref="J4" pin="9"/>
+    </net>
+    <net code="8" name="Net-(J4-Pad2)">
+      <node ref="XA1" pin="D2"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="9" name="Net-(J4-Pad4)">
+      <node ref="XA1" pin="D4"/>
+      <node ref="J4" pin="4"/>
+    </net>
+    <net code="10" name="Net-(J2-Pad5)">
+      <node ref="J2" pin="5"/>
+      <node ref="XA1" pin="A2"/>
+    </net>
+    <net code="11" name="Net-(J2-Pad6)">
+      <node ref="XA1" pin="A3"/>
+      <node ref="J2" pin="6"/>
+    </net>
+    <net code="12" name="Net-(J2-Pad7)">
+      <node ref="J2" pin="7"/>
+      <node ref="XA1" pin="A4"/>
+    </net>
+    <net code="13" name="Net-(J2-Pad8)">
+      <node ref="XA1" pin="A5"/>
+      <node ref="J2" pin="8"/>
+    </net>
+    <net code="14" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2"/>
+      <node ref="XA1" pin="AREF"/>
+    </net>
+    <net code="15" name="Net-(J2-Pad3)">
+      <node ref="XA1" pin="A0"/>
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="16" name="Net-(J2-Pad4)">
+      <node ref="XA1" pin="A1"/>
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="17" name="GND">
+      <node ref="J3" pin="4"/>
+      <node ref="U9" pin="13"/>
+      <node ref="U9" pin="8"/>
+      <node ref="U8" pin="13"/>
+      <node ref="U8" pin="8"/>
+      <node ref="U4" pin="8"/>
+      <node ref="U4" pin="13"/>
+      <node ref="C6" pin="2"/>
+      <node ref="U10" pin="8"/>
+      <node ref="U10" pin="13"/>
+      <node ref="C12" pin="2"/>
+      <node ref="Q3" pin="1"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="C10" pin="2"/>
+      <node ref="J4" pin="10"/>
+      <node ref="C8" pin="2"/>
+      <node ref="U6" pin="13"/>
+      <node ref="Q7" pin="1"/>
+      <node ref="Q8" pin="1"/>
+      <node ref="U7" pin="13"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U7" pin="8"/>
+      <node ref="U6" pin="8"/>
+      <node ref="J2" pin="9"/>
+      <node ref="U5" pin="8"/>
+      <node ref="U5" pin="13"/>
+      <node ref="C7" pin="2"/>
+      <node ref="Q5" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="Q6" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="U2" pin="13"/>
+      <node ref="U2" pin="8"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="XA1" pin="GND3"/>
+      <node ref="C3" pin="2"/>
+      <node ref="XA1" pin="GND2"/>
+      <node ref="RV1" pin="3"/>
+      <node ref="XA1" pin="GND1"/>
+      <node ref="U3" pin="8"/>
+      <node ref="RV1" pin="2"/>
+      <node ref="J6" pin="6"/>
+      <node ref="U3" pin="13"/>
+      <node ref="C5" pin="2"/>
+      <node ref="J5" pin="6"/>
+      <node ref="Q4" pin="1"/>
+      <node ref="Q1" pin="1"/>
+    </net>
+    <net code="18" name="SRCLK_CMD">
+      <node ref="J6" pin="4"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="XA1" pin="D13"/>
+    </net>
+    <net code="19" name="Net-(J5-Pad2)">
+      <node ref="XA1" pin="MISO"/>
+      <node ref="J5" pin="2"/>
+    </net>
+    <net code="20" name="Net-(J5-Pad3)">
+      <node ref="XA1" pin="MOSI"/>
+      <node ref="J5" pin="3"/>
+    </net>
+    <net code="21" name="Net-(J5-Pad4)">
+      <node ref="XA1" pin="SCK"/>
+      <node ref="J5" pin="4"/>
+    </net>
+    <net code="22" name="Net-(J5-Pad5)">
+      <node ref="J5" pin="5"/>
+      <node ref="XA1" pin="RST2"/>
+    </net>
+    <net code="23" name="SER_START">
+      <node ref="SW5" pin="1"/>
+      <node ref="XA1" pin="D11"/>
+    </net>
+    <net code="24" name="SRCLR_CMD">
+      <node ref="SW1" pin="1"/>
+      <node ref="XA1" pin="D12"/>
+    </net>
+    <net code="25" name="VCC">
+      <node ref="XA1" pin="VIN"/>
+      <node ref="J5" pin="1"/>
+      <node ref="J4" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="26" name="Net-(J4-Pad6)">
+      <node ref="J4" pin="6"/>
+      <node ref="XA1" pin="D6"/>
+    </net>
+    <net code="27" name="Net-(J4-Pad8)">
+      <node ref="XA1" pin="D8"/>
+      <node ref="J4" pin="8"/>
+    </net>
+    <net code="28" name="Net-(XA1-Pad3V3)">
+      <node ref="XA1" pin="3V3"/>
+    </net>
+    <net code="29" name="Net-(XA1-Pad5V1)">
+      <node ref="XA1" pin="5V1"/>
+    </net>
+    <net code="30" name="Net-(XA1-Pad5V2)">
+      <node ref="XA1" pin="5V2"/>
+    </net>
+    <net code="31" name="Net-(XA1-PadRST1)">
+      <node ref="XA1" pin="RST1"/>
+    </net>
+    <net code="32" name="Net-(XA1-PadGND4)">
+      <node ref="XA1" pin="GND4"/>
+    </net>
+    <net code="33" name="Net-(XA1-PadIORF)">
+      <node ref="XA1" pin="IORF"/>
+    </net>
+    <net code="34" name="Net-(XA1-PadD0)">
+      <node ref="XA1" pin="D0"/>
+    </net>
+    <net code="35" name="Net-(XA1-PadD1)">
+      <node ref="XA1" pin="D1"/>
+    </net>
+    <net code="36" name="/Matrice/~SRCLR_IN">
+      <node ref="R1" pin="1"/>
+      <node ref="SW6" pin="1"/>
+      <node ref="J6" pin="5"/>
+    </net>
+    <net code="37" name="/Matrice/QH'_OUT">
+      <node ref="J6" pin="2"/>
+      <node ref="SW39" pin="2"/>
+    </net>
+    <net code="38" name="Net-(R1-Pad2)">
+      <node ref="SW1" pin="2"/>
+      <node ref="SW2" pin="2"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="39" name="RCLK_CMD">
+      <node ref="XA1" pin="D10"/>
+      <node ref="SW3" pin="1"/>
+      <node ref="J6" pin="3"/>
+    </net>
+    <net code="40" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="41" name="Net-(D2-Pad2)">
+      <node ref="R3" pin="2"/>
+      <node ref="RV1" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="42" name="Net-(C3-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="43" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1"/>
+      <node ref="U1" pin="3"/>
+      <node ref="C2" pin="1"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="44" name="SER_2">
+      <node ref="U2" pin="9"/>
+      <node ref="SW9" pin="1"/>
+    </net>
+    <net code="45" name="/Matrice/BlockLayersCatodes/R_QH'">
+      <node ref="SW39" pin="1"/>
+      <node ref="U10" pin="9"/>
+    </net>
+    <net code="46" name="RCLK">
+      <node ref="SW20" pin="1"/>
+      <node ref="U2" pin="12"/>
+      <node ref="SW36" pin="1"/>
+      <node ref="SW4" pin="2"/>
+      <node ref="SW8" pin="1"/>
+      <node ref="SW32" pin="1"/>
+      <node ref="SW28" pin="1"/>
+      <node ref="SW24" pin="1"/>
+      <node ref="SW12" pin="1"/>
+      <node ref="SW16" pin="1"/>
+    </net>
+    <net code="47" name="SER_4">
+      <node ref="U8" pin="9"/>
+      <node ref="SW17" pin="1"/>
+    </net>
+    <net code="48" name="SER_5">
+      <node ref="U3" pin="9"/>
+      <node ref="SW21" pin="1"/>
+    </net>
+    <net code="49" name="SER_8">
+      <node ref="SW33" pin="1"/>
+      <node ref="U6" pin="9"/>
+    </net>
+    <net code="50" name="/Matrice/BlockRowAnode5/RCLK">
+      <node ref="U4" pin="12"/>
+      <node ref="SW20" pin="2"/>
+    </net>
+    <net code="51" name="/Matrice/BlockRowAnode5/SER">
+      <node ref="U4" pin="14"/>
+      <node ref="SW21" pin="2"/>
+    </net>
+    <net code="52" name="/Matrice/BlockRowAnode5/~SRCLR">
+      <node ref="U4" pin="10"/>
+      <node ref="SW22" pin="2"/>
+    </net>
+    <net code="53" name="SER_9">
+      <node ref="SW37" pin="1"/>
+      <node ref="U7" pin="9"/>
+    </net>
+    <net code="54" name="/Matrice/BlockLayersCatodes/~SRCLR">
+      <node ref="SW38" pin="2"/>
+      <node ref="U10" pin="10"/>
+    </net>
+    <net code="55" name="/Matrice/BlockLayersCatodes/SRCLK">
+      <node ref="SW35" pin="2"/>
+      <node ref="U10" pin="11"/>
+    </net>
+    <net code="56" name="/Matrice/BlockLayersCatodes/RCLK">
+      <node ref="U10" pin="12"/>
+      <node ref="SW36" pin="2"/>
+    </net>
+    <net code="57" name="/Matrice/BlockLayersCatodes/SER">
+      <node ref="SW37" pin="2"/>
+      <node ref="U10" pin="14"/>
+    </net>
+    <net code="58" name="/Matrice/BlockRowAnode5/SRCLK">
+      <node ref="SW19" pin="2"/>
+      <node ref="U4" pin="11"/>
+    </net>
+    <net code="59" name="/Matrice/BlockRowAnode1/SER">
+      <node ref="SW5" pin="2"/>
+      <node ref="U2" pin="14"/>
+    </net>
+    <net code="60" name="SRCLK">
+      <node ref="SW3" pin="2"/>
+      <node ref="SW23" pin="1"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW19" pin="1"/>
+      <node ref="SW27" pin="1"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="U2" pin="11"/>
+      <node ref="SW15" pin="1"/>
+      <node ref="SW35" pin="1"/>
+      <node ref="SW31" pin="1"/>
+    </net>
+    <net code="61" name="~SRCLR">
+      <node ref="SW6" pin="2"/>
+      <node ref="SW38" pin="1"/>
+      <node ref="SW34" pin="1"/>
+      <node ref="U2" pin="10"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="SW26" pin="1"/>
+      <node ref="SW30" pin="1"/>
+      <node ref="SW18" pin="1"/>
+      <node ref="SW22" pin="1"/>
+    </net>
+    <net code="62" name="/Matrice/BlockRowAnode4/SER">
+      <node ref="SW17" pin="2"/>
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="63" name="/Matrice/BlockRowAnode3/SRCLK">
+      <node ref="SW11" pin="2"/>
+      <node ref="U8" pin="11"/>
+    </net>
+    <net code="64" name="/Matrice/BlockRowAnode3/RCLK">
+      <node ref="SW12" pin="2"/>
+      <node ref="U8" pin="12"/>
+    </net>
+    <net code="65" name="/Matrice/BlockRowAnode3/SER">
+      <node ref="SW13" pin="2"/>
+      <node ref="U8" pin="14"/>
+    </net>
+    <net code="66" name="/Matrice/BlockRowAnode3/~SRCLR">
+      <node ref="SW14" pin="2"/>
+      <node ref="U8" pin="10"/>
+    </net>
+    <net code="67" name="/Matrice/BlockRowAnode4/SRCLK">
+      <node ref="U3" pin="11"/>
+      <node ref="SW15" pin="2"/>
+    </net>
+    <net code="68" name="/Matrice/BlockRowAnode4/RCLK">
+      <node ref="U3" pin="12"/>
+      <node ref="SW16" pin="2"/>
+    </net>
+    <net code="69" name="/Matrice/BlockRowAnode4/~SRCLR">
+      <node ref="SW18" pin="2"/>
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="70" name="/Matrice/BlockRowAnode8/SRCLK">
+      <node ref="SW31" pin="2"/>
+      <node ref="U7" pin="11"/>
+    </net>
+    <net code="71" name="/Matrice/BlockRowAnode8/RCLK">
+      <node ref="SW32" pin="2"/>
+      <node ref="U7" pin="12"/>
+    </net>
+    <net code="72" name="/Matrice/BlockRowAnode8/SER">
+      <node ref="SW33" pin="2"/>
+      <node ref="U7" pin="14"/>
+    </net>
+    <net code="73" name="/Matrice/BlockRowAnode8/~SRCLR">
+      <node ref="SW34" pin="2"/>
+      <node ref="U7" pin="10"/>
+    </net>
+    <net code="74" name="SER_3">
+      <node ref="U9" pin="9"/>
+      <node ref="SW13" pin="1"/>
+    </net>
+    <net code="75" name="/Matrice/BlockRowAnode2/~SRCLR">
+      <node ref="SW10" pin="2"/>
+      <node ref="U9" pin="10"/>
+    </net>
+    <net code="76" name="/Matrice/BlockRowAnode2/SER">
+      <node ref="SW9" pin="2"/>
+      <node ref="U9" pin="14"/>
+    </net>
+    <net code="77" name="/Matrice/BlockRowAnode2/RCLK">
+      <node ref="SW8" pin="2"/>
+      <node ref="U9" pin="12"/>
+    </net>
+    <net code="78" name="/Matrice/BlockRowAnode2/SRCLK">
+      <node ref="SW7" pin="2"/>
+      <node ref="U9" pin="11"/>
+    </net>
+    <net code="79" name="/Matrice/BlockRowAnode6/SRCLK">
+      <node ref="SW23" pin="2"/>
+      <node ref="U5" pin="11"/>
+    </net>
+    <net code="80" name="SER_7">
+      <node ref="SW29" pin="1"/>
+      <node ref="U5" pin="9"/>
+    </net>
+    <net code="81" name="/Matrice/BlockRowAnode7/~SRCLR">
+      <node ref="U6" pin="10"/>
+      <node ref="SW30" pin="2"/>
+    </net>
+    <net code="82" name="/Matrice/BlockRowAnode7/SER">
+      <node ref="U6" pin="14"/>
+      <node ref="SW29" pin="2"/>
+    </net>
+    <net code="83" name="/Matrice/BlockRowAnode7/RCLK">
+      <node ref="U6" pin="12"/>
+      <node ref="SW28" pin="2"/>
+    </net>
+    <net code="84" name="/Matrice/BlockRowAnode7/SRCLK">
+      <node ref="U6" pin="11"/>
+      <node ref="SW27" pin="2"/>
+    </net>
+    <net code="85" name="SER_6">
+      <node ref="SW25" pin="1"/>
+      <node ref="U4" pin="9"/>
+    </net>
+    <net code="86" name="/Matrice/BlockRowAnode6/RCLK">
+      <node ref="U5" pin="12"/>
+      <node ref="SW24" pin="2"/>
+    </net>
+    <net code="87" name="/Matrice/BlockRowAnode6/SER">
+      <node ref="U5" pin="14"/>
+      <node ref="SW25" pin="2"/>
+    </net>
+    <net code="88" name="/Matrice/BlockRowAnode6/~SRCLR">
+      <node ref="SW26" pin="2"/>
+      <node ref="U5" pin="10"/>
+    </net>
+    <net code="89" name="/Matrice/A6">
+      <node ref="J7" pin="6"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="90" name="/Matrice/A1">
+      <node ref="R4" pin="1"/>
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="91" name="/Matrice/A2">
+      <node ref="R5" pin="1"/>
+      <node ref="J7" pin="2"/>
+    </net>
+    <net code="92" name="/Matrice/A3">
+      <node ref="J7" pin="3"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="93" name="/Matrice/A4">
+      <node ref="J7" pin="4"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="94" name="/Matrice/A5">
+      <node ref="J7" pin="5"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="95" name="/Matrice/A7">
+      <node ref="J7" pin="7"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="96" name="/Matrice/A8">
+      <node ref="R11" pin="1"/>
+      <node ref="J7" pin="8"/>
+    </net>
+    <net code="97" name="/Matrice/A9">
+      <node ref="R60" pin="1"/>
+      <node ref="J7" pin="9"/>
+    </net>
+    <net code="98" name="/Matrice/A10">
+      <node ref="J7" pin="10"/>
+      <node ref="R61" pin="1"/>
+    </net>
+    <net code="99" name="/Matrice/A11">
+      <node ref="J8" pin="1"/>
+      <node ref="R62" pin="1"/>
+    </net>
+    <net code="100" name="/Matrice/A12">
+      <node ref="J8" pin="2"/>
+      <node ref="R63" pin="1"/>
+    </net>
+    <net code="101" name="/Matrice/A13">
+      <node ref="R64" pin="1"/>
+      <node ref="J8" pin="3"/>
+    </net>
+    <net code="102" name="/Matrice/A14">
+      <node ref="R65" pin="1"/>
+      <node ref="J8" pin="4"/>
+    </net>
+    <net code="103" name="/Matrice/A15">
+      <node ref="J8" pin="5"/>
+      <node ref="R66" pin="1"/>
+    </net>
+    <net code="104" name="/Matrice/A16">
+      <node ref="J8" pin="6"/>
+      <node ref="R67" pin="1"/>
+    </net>
+    <net code="105" name="/Matrice/A17">
+      <node ref="R52" pin="1"/>
+      <node ref="J8" pin="7"/>
+    </net>
+    <net code="106" name="/Matrice/A50">
+      <node ref="R37" pin="1"/>
+      <node ref="J11" pin="10"/>
+    </net>
+    <net code="107" name="/Matrice/A40">
+      <node ref="R27" pin="1"/>
+      <node ref="J10" pin="10"/>
+    </net>
+    <net code="108" name="/Matrice/A41">
+      <node ref="J11" pin="1"/>
+      <node ref="R28" pin="1"/>
+    </net>
+    <net code="109" name="/Matrice/A42">
+      <node ref="J11" pin="2"/>
+      <node ref="R29" pin="1"/>
+    </net>
+    <net code="110" name="/Matrice/A43">
+      <node ref="R30" pin="1"/>
+      <node ref="J11" pin="3"/>
+    </net>
+    <net code="111" name="/Matrice/A44">
+      <node ref="R31" pin="1"/>
+      <node ref="J11" pin="4"/>
+    </net>
+    <net code="112" name="/Matrice/A45">
+      <node ref="R32" pin="1"/>
+      <node ref="J11" pin="5"/>
+    </net>
+    <net code="113" name="/Matrice/A46">
+      <node ref="R33" pin="1"/>
+      <node ref="J11" pin="6"/>
+    </net>
+    <net code="114" name="/Matrice/A47">
+      <node ref="J11" pin="7"/>
+      <node ref="R34" pin="1"/>
+    </net>
+    <net code="115" name="/Matrice/A48">
+      <node ref="J11" pin="8"/>
+      <node ref="R35" pin="1"/>
+    </net>
+    <net code="116" name="/Matrice/A49">
+      <node ref="J11" pin="9"/>
+      <node ref="R36" pin="1"/>
+    </net>
+    <net code="117" name="/Matrice/A39">
+      <node ref="R26" pin="1"/>
+      <node ref="J10" pin="9"/>
+    </net>
+    <net code="118" name="/Matrice/A51">
+      <node ref="J12" pin="1"/>
+      <node ref="R38" pin="1"/>
+    </net>
+    <net code="119" name="/Matrice/A52">
+      <node ref="J12" pin="2"/>
+      <node ref="R39" pin="1"/>
+    </net>
+    <net code="120" name="/Matrice/A53">
+      <node ref="R40" pin="1"/>
+      <node ref="J12" pin="3"/>
+    </net>
+    <net code="121" name="/Matrice/A54">
+      <node ref="R41" pin="1"/>
+      <node ref="J12" pin="4"/>
+    </net>
+    <net code="122" name="/Matrice/A55">
+      <node ref="J12" pin="5"/>
+      <node ref="R42" pin="1"/>
+    </net>
+    <net code="123" name="/Matrice/A56">
+      <node ref="R43" pin="1"/>
+      <node ref="J12" pin="6"/>
+    </net>
+    <net code="124" name="/Matrice/A57">
+      <node ref="J12" pin="7"/>
+      <node ref="R44" pin="1"/>
+    </net>
+    <net code="125" name="/Matrice/A58">
+      <node ref="R45" pin="1"/>
+      <node ref="J12" pin="8"/>
+    </net>
+    <net code="126" name="/Matrice/A59">
+      <node ref="R46" pin="1"/>
+      <node ref="J12" pin="9"/>
+    </net>
+    <net code="127" name="/Matrice/A60">
+      <node ref="R47" pin="1"/>
+      <node ref="J12" pin="10"/>
+    </net>
+    <net code="128" name="/Matrice/A28">
+      <node ref="R15" pin="1"/>
+      <node ref="J9" pin="8"/>
+    </net>
+    <net code="129" name="/Matrice/A18">
+      <node ref="R53" pin="1"/>
+      <node ref="J8" pin="8"/>
+    </net>
+    <net code="130" name="/Matrice/A19">
+      <node ref="R54" pin="1"/>
+      <node ref="J8" pin="9"/>
+    </net>
+    <net code="131" name="/Matrice/A20">
+      <node ref="J8" pin="10"/>
+      <node ref="R55" pin="1"/>
+    </net>
+    <net code="132" name="/Matrice/A21">
+      <node ref="R56" pin="1"/>
+      <node ref="J9" pin="1"/>
+    </net>
+    <net code="133" name="/Matrice/A22">
+      <node ref="R57" pin="1"/>
+      <node ref="J9" pin="2"/>
+    </net>
+    <net code="134" name="/Matrice/A23">
+      <node ref="J9" pin="3"/>
+      <node ref="R58" pin="1"/>
+    </net>
+    <net code="135" name="/Matrice/A24">
+      <node ref="R59" pin="1"/>
+      <node ref="J9" pin="4"/>
+    </net>
+    <net code="136" name="/Matrice/A25">
+      <node ref="J9" pin="5"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="137" name="/Matrice/A26">
+      <node ref="J9" pin="6"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="138" name="/Matrice/A27">
+      <node ref="J9" pin="7"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="139" name="/Matrice/A29">
+      <node ref="R16" pin="1"/>
+      <node ref="J9" pin="9"/>
+    </net>
+    <net code="140" name="/Matrice/A30">
+      <node ref="R17" pin="1"/>
+      <node ref="J9" pin="10"/>
+    </net>
+    <net code="141" name="/Matrice/A31">
+      <node ref="R18" pin="1"/>
+      <node ref="J10" pin="1"/>
+    </net>
+    <net code="142" name="/Matrice/A32">
+      <node ref="J10" pin="2"/>
+      <node ref="R19" pin="1"/>
+    </net>
+    <net code="143" name="/Matrice/A33">
+      <node ref="R20" pin="1"/>
+      <node ref="J10" pin="3"/>
+    </net>
+    <net code="144" name="/Matrice/A34">
+      <node ref="J10" pin="4"/>
+      <node ref="R21" pin="1"/>
+    </net>
+    <net code="145" name="/Matrice/A35">
+      <node ref="J10" pin="5"/>
+      <node ref="R22" pin="1"/>
+    </net>
+    <net code="146" name="/Matrice/A36">
+      <node ref="J10" pin="6"/>
+      <node ref="R23" pin="1"/>
+    </net>
+    <net code="147" name="/Matrice/A37">
+      <node ref="J10" pin="7"/>
+      <node ref="R24" pin="1"/>
+    </net>
+    <net code="148" name="/Matrice/A38">
+      <node ref="J10" pin="8"/>
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="149" name="/Matrice/A62">
+      <node ref="R49" pin="1"/>
+      <node ref="J13" pin="2"/>
+    </net>
+    <net code="150" name="/Matrice/K1">
+      <node ref="Q1" pin="3"/>
+      <node ref="J14" pin="1"/>
+    </net>
+    <net code="151" name="/Matrice/A61">
+      <node ref="J13" pin="1"/>
+      <node ref="R48" pin="1"/>
+    </net>
+    <net code="152" name="/Matrice/A63">
+      <node ref="J13" pin="3"/>
+      <node ref="R50" pin="1"/>
+    </net>
+    <net code="153" name="/Matrice/A64">
+      <node ref="R51" pin="1"/>
+      <node ref="J13" pin="4"/>
+    </net>
+    <net code="154" name="/Matrice/K8">
+      <node ref="Q8" pin="3"/>
+      <node ref="J14" pin="8"/>
+    </net>
+    <net code="155" name="/Matrice/K7">
+      <node ref="J14" pin="7"/>
+      <node ref="Q7" pin="3"/>
+    </net>
+    <net code="156" name="/Matrice/K6">
+      <node ref="J14" pin="6"/>
+      <node ref="Q6" pin="3"/>
+    </net>
+    <net code="157" name="/Matrice/K5">
+      <node ref="Q5" pin="3"/>
+      <node ref="J14" pin="5"/>
+    </net>
+    <net code="158" name="/Matrice/K4">
+      <node ref="J14" pin="4"/>
+      <node ref="Q4" pin="3"/>
+    </net>
+    <net code="159" name="/Matrice/K3">
+      <node ref="J14" pin="3"/>
+      <node ref="Q3" pin="3"/>
+    </net>
+    <net code="160" name="/Matrice/K2">
+      <node ref="Q2" pin="3"/>
+      <node ref="J14" pin="2"/>
+    </net>
+    <net code="161" name="Net-(R4-Pad2)">
+      <node ref="U2" pin="15"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="162" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2"/>
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="163" name="Net-(R6-Pad2)">
+      <node ref="U2" pin="2"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="164" name="Net-(R7-Pad2)">
+      <node ref="U2" pin="3"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="165" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="166" name="Net-(R9-Pad2)">
+      <node ref="U2" pin="5"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="167" name="Net-(R10-Pad2)">
+      <node ref="U2" pin="6"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="168" name="Net-(R11-Pad2)">
+      <node ref="U2" pin="7"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="169" name="Net-(R63-Pad2)">
+      <node ref="R63" pin="2"/>
+      <node ref="U9" pin="3"/>
+    </net>
+    <net code="170" name="Net-(R62-Pad2)">
+      <node ref="U9" pin="2"/>
+      <node ref="R62" pin="2"/>
+    </net>
+    <net code="171" name="Net-(R61-Pad2)">
+      <node ref="U9" pin="1"/>
+      <node ref="R61" pin="2"/>
+    </net>
+    <net code="172" name="Net-(R60-Pad2)">
+      <node ref="U9" pin="15"/>
+      <node ref="R60" pin="2"/>
+    </net>
+    <net code="173" name="Net-(R66-Pad2)">
+      <node ref="R66" pin="2"/>
+      <node ref="U9" pin="6"/>
+    </net>
+    <net code="174" name="Net-(R65-Pad2)">
+      <node ref="R65" pin="2"/>
+      <node ref="U9" pin="5"/>
+    </net>
+    <net code="175" name="Net-(R64-Pad2)">
+      <node ref="R64" pin="2"/>
+      <node ref="U9" pin="4"/>
+    </net>
+    <net code="176" name="Net-(R67-Pad2)">
+      <node ref="U9" pin="7"/>
+      <node ref="R67" pin="2"/>
+    </net>
+    <net code="177" name="Net-(R56-Pad2)">
+      <node ref="U8" pin="4"/>
+      <node ref="R56" pin="2"/>
+    </net>
+    <net code="178" name="Net-(R55-Pad2)">
+      <node ref="R55" pin="2"/>
+      <node ref="U8" pin="3"/>
+    </net>
+    <net code="179" name="Net-(R54-Pad2)">
+      <node ref="U8" pin="2"/>
+      <node ref="R54" pin="2"/>
+    </net>
+    <net code="180" name="Net-(R53-Pad2)">
+      <node ref="U8" pin="1"/>
+      <node ref="R53" pin="2"/>
+    </net>
+    <net code="181" name="Net-(R52-Pad2)">
+      <node ref="R52" pin="2"/>
+      <node ref="U8" pin="15"/>
+    </net>
+    <net code="182" name="Net-(R57-Pad2)">
+      <node ref="U8" pin="5"/>
+      <node ref="R57" pin="2"/>
+    </net>
+    <net code="183" name="Net-(R58-Pad2)">
+      <node ref="R58" pin="2"/>
+      <node ref="U8" pin="6"/>
+    </net>
+    <net code="184" name="Net-(R59-Pad2)">
+      <node ref="U8" pin="7"/>
+      <node ref="R59" pin="2"/>
+    </net>
+    <net code="185" name="Net-(R16-Pad2)">
+      <node ref="U3" pin="4"/>
+      <node ref="R16" pin="2"/>
+    </net>
+    <net code="186" name="Net-(R15-Pad2)">
+      <node ref="U3" pin="3"/>
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="187" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="188" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2"/>
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="189" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2"/>
+      <node ref="U3" pin="15"/>
+    </net>
+    <net code="190" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="191" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2"/>
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="192" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2"/>
+      <node ref="U3" pin="7"/>
+    </net>
+    <net code="193" name="Net-(R24-Pad2)">
+      <node ref="U4" pin="4"/>
+      <node ref="R24" pin="2"/>
+    </net>
+    <net code="194" name="Net-(R23-Pad2)">
+      <node ref="U4" pin="3"/>
+      <node ref="R23" pin="2"/>
+    </net>
+    <net code="195" name="Net-(R22-Pad2)">
+      <node ref="R22" pin="2"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="196" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="197" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2"/>
+      <node ref="U4" pin="15"/>
+    </net>
+    <net code="198" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2"/>
+      <node ref="U4" pin="5"/>
+    </net>
+    <net code="199" name="Net-(R26-Pad2)">
+      <node ref="R26" pin="2"/>
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="200" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2"/>
+      <node ref="U4" pin="7"/>
+    </net>
+    <net code="201" name="Net-(R28-Pad2)">
+      <node ref="U5" pin="15"/>
+      <node ref="R28" pin="2"/>
+    </net>
+    <net code="202" name="Net-(R29-Pad2)">
+      <node ref="U5" pin="1"/>
+      <node ref="R29" pin="2"/>
+    </net>
+    <net code="203" name="Net-(R30-Pad2)">
+      <node ref="R30" pin="2"/>
+      <node ref="U5" pin="2"/>
+    </net>
+    <net code="204" name="Net-(R31-Pad2)">
+      <node ref="U5" pin="3"/>
+      <node ref="R31" pin="2"/>
+    </net>
+    <net code="205" name="Net-(R32-Pad2)">
+      <node ref="U5" pin="4"/>
+      <node ref="R32" pin="2"/>
+    </net>
+    <net code="206" name="Net-(R34-Pad2)">
+      <node ref="R34" pin="2"/>
+      <node ref="U5" pin="6"/>
+    </net>
+    <net code="207" name="Net-(R33-Pad2)">
+      <node ref="U5" pin="5"/>
+      <node ref="R33" pin="2"/>
+    </net>
+    <net code="208" name="Net-(R35-Pad2)">
+      <node ref="U5" pin="7"/>
+      <node ref="R35" pin="2"/>
+    </net>
+    <net code="209" name="Net-(R39-Pad2)">
+      <node ref="R39" pin="2"/>
+      <node ref="U6" pin="3"/>
+    </net>
+    <net code="210" name="Net-(R41-Pad2)">
+      <node ref="R41" pin="2"/>
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="211" name="Net-(R40-Pad2)">
+      <node ref="U6" pin="4"/>
+      <node ref="R40" pin="2"/>
+    </net>
+    <net code="212" name="Net-(R38-Pad2)">
+      <node ref="R38" pin="2"/>
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="213" name="Net-(R37-Pad2)">
+      <node ref="R37" pin="2"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="214" name="Net-(R36-Pad2)">
+      <node ref="R36" pin="2"/>
+      <node ref="U6" pin="15"/>
+    </net>
+    <net code="215" name="Net-(R42-Pad2)">
+      <node ref="U6" pin="6"/>
+      <node ref="R42" pin="2"/>
+    </net>
+    <net code="216" name="Net-(R43-Pad2)">
+      <node ref="R43" pin="2"/>
+      <node ref="U6" pin="7"/>
+    </net>
+    <net code="217" name="Net-(R49-Pad2)">
+      <node ref="U7" pin="5"/>
+      <node ref="R49" pin="2"/>
+    </net>
+    <net code="218" name="Net-(R48-Pad2)">
+      <node ref="U7" pin="4"/>
+      <node ref="R48" pin="2"/>
+    </net>
+    <net code="219" name="Net-(R47-Pad2)">
+      <node ref="R47" pin="2"/>
+      <node ref="U7" pin="3"/>
+    </net>
+    <net code="220" name="Net-(R46-Pad2)">
+      <node ref="R46" pin="2"/>
+      <node ref="U7" pin="2"/>
+    </net>
+    <net code="221" name="Net-(R45-Pad2)">
+      <node ref="R45" pin="2"/>
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="222" name="Net-(R44-Pad2)">
+      <node ref="R44" pin="2"/>
+      <node ref="U7" pin="15"/>
+    </net>
+    <net code="223" name="Net-(R50-Pad2)">
+      <node ref="U7" pin="6"/>
+      <node ref="R50" pin="2"/>
+    </net>
+    <net code="224" name="Net-(R51-Pad2)">
+      <node ref="U7" pin="7"/>
+      <node ref="R51" pin="2"/>
+    </net>
+    <net code="225" name="Net-(Q7-Pad2)">
+      <node ref="Q7" pin="2"/>
+      <node ref="U10" pin="6"/>
+    </net>
+    <net code="226" name="Net-(Q5-Pad2)">
+      <node ref="U10" pin="4"/>
+      <node ref="Q5" pin="2"/>
+    </net>
+    <net code="227" name="Net-(Q4-Pad2)">
+      <node ref="Q4" pin="2"/>
+      <node ref="U10" pin="3"/>
+    </net>
+    <net code="228" name="Net-(Q6-Pad2)">
+      <node ref="U10" pin="5"/>
+      <node ref="Q6" pin="2"/>
+    </net>
+    <net code="229" name="Net-(Q8-Pad2)">
+      <node ref="U10" pin="7"/>
+      <node ref="Q8" pin="2"/>
+    </net>
+    <net code="230" name="Net-(Q2-Pad2)">
+      <node ref="U10" pin="1"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="231" name="Net-(Q3-Pad2)">
+      <node ref="U10" pin="2"/>
+      <node ref="Q3" pin="2"/>
+    </net>
+    <net code="232" name="Net-(Q1-Pad2)">
+      <node ref="U10" pin="15"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+  </nets>
+</export>
