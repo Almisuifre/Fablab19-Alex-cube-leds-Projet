@@ -178,8 +178,6 @@ F 3 "" H 4300 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4000 3750 3950 3750
-Wire Wire Line
 	4300 3950 4300 4050
 Wire Wire Line
 	4300 3550 4300 3400
@@ -207,8 +205,6 @@ F 3 "" H 5200 4050 50  0001 C CNN
 	1    5200 4050
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4900 3750 4850 3750
 Wire Wire Line
 	5200 3950 5200 4050
 Wire Wire Line
@@ -238,8 +234,6 @@ F 3 "" H 6100 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5800 3750 5750 3750
-Wire Wire Line
 	6100 3950 6100 4050
 Wire Wire Line
 	6100 3550 6100 3400
@@ -268,24 +262,11 @@ F 3 "" H 7000 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6700 3750 6650 3750
-Wire Wire Line
 	7000 3950 7000 4050
 Wire Wire Line
 	7000 3550 7000 3400
 Wire Wire Line
 	7000 3400 7050 3400
-$Comp
-L PN2222A Q5
-U 1 1 5B24454B
-P 7800 3750
-F 0 "Q5" H 8000 3825 50  0000 L CNN
-F 1 "PN2222A" H 8000 3750 50  0000 L CNN
-F 2 "alex-library:TO-92_Inline_Narrow_Oval" H 8000 3675 50  0001 L CIN
-F 3 "" H 7800 3750 50  0001 L CNN
-	1    7800 3750
-	1    0    0    -1  
-$EndComp
 $Comp
 L GND #PWR062
 U 1 1 5B244551
@@ -297,8 +278,6 @@ F 3 "" H 7900 4050 50  0001 C CNN
 	1    7900 4050
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	7600 3750 7550 3750
 Wire Wire Line
 	7900 3950 7900 4050
 Wire Wire Line
@@ -328,8 +307,6 @@ F 3 "" H 8800 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8500 3750 8450 3750
-Wire Wire Line
 	8800 3950 8800 4050
 Wire Wire Line
 	8800 3550 8800 3400
@@ -357,8 +334,6 @@ F 3 "" H 9700 4050 50  0001 C CNN
 	1    9700 4050
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	9400 3750 9350 3750
 Wire Wire Line
 	9700 3950 9700 4050
 Wire Wire Line
@@ -388,49 +363,11 @@ F 3 "" H 10600 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10300 3750 10250 3750
-Wire Wire Line
 	10600 3950 10600 4050
 Wire Wire Line
 	10600 3550 10600 3400
 Wire Wire Line
 	10600 3400 10650 3400
-Wire Wire Line
-	3950 3750 3950 4100
-Wire Wire Line
-	3950 4100 3650 4100
-Wire Wire Line
-	4850 3750 4850 4250
-Wire Wire Line
-	4850 4250 3950 4250
-Wire Wire Line
-	3950 4250 3950 4200
-Wire Wire Line
-	3950 4200 3650 4200
-Wire Wire Line
-	5750 3750 5750 4300
-Wire Wire Line
-	5750 4300 3650 4300
-Wire Wire Line
-	6650 3750 6650 4400
-Wire Wire Line
-	6650 4400 3650 4400
-Wire Wire Line
-	7550 3750 7550 4500
-Wire Wire Line
-	7550 4500 3650 4500
-Wire Wire Line
-	8450 3750 8450 4600
-Wire Wire Line
-	8450 4600 3650 4600
-Wire Wire Line
-	9350 3750 9350 4700
-Wire Wire Line
-	9350 4700 3650 4700
-Wire Wire Line
-	10250 3750 10250 4800
-Wire Wire Line
-	10250 4800 3650 4800
 Wire Wire Line
 	3650 4900 3900 4900
 Wire Wire Line
@@ -456,4 +393,195 @@ Wire Wire Line
 	1800 4500 2750 4500
 Wire Wire Line
 	2750 4600 1400 4600
+$Comp
+L PN2222A Q5
+U 1 1 5B24454B
+P 7800 3750
+F 0 "Q5" H 8000 3825 50  0000 L CNN
+F 1 "PN2222A" H 8000 3750 50  0000 L CNN
+F 2 "alex-library:TO-92_Inline_Narrow_Oval" H 8000 3675 50  0001 L CIN
+F 3 "" H 7800 3750 50  0001 L CNN
+	1    7800 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R66
+U 1 1 5B744B52
+P 3750 3750
+F 0 "R66" V 3830 3750 50  0000 C CNN
+F 1 "1,1K" V 3750 3750 50  0000 C CNN
+F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 3680 3750 50  0001 C CNN
+F 3 "" H 3750 3750 50  0001 C CNN
+	1    3750 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R67
+U 1 1 5B744BB8
+P 4850 4050
+F 0 "R67" V 4930 4050 50  0000 C CNN
+F 1 "1,1K" V 4850 4050 50  0000 C CNN
+F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 4780 4050 50  0001 C CNN
+F 3 "" H 4850 4050 50  0001 C CNN
+	1    4850 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L R R68
+U 1 1 5B744D9E
+P 5750 4050
+F 0 "R68" V 5830 4050 50  0000 C CNN
+F 1 "1,1K" V 5750 4050 50  0000 C CNN
+F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 5680 4050 50  0001 C CNN
+F 3 "" H 5750 4050 50  0001 C CNN
+	1    5750 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L R R69
+U 1 1 5B744DEF
+P 6650 4050
+F 0 "R69" V 6730 4050 50  0000 C CNN
+F 1 "1,1K" V 6650 4050 50  0000 C CNN
+F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 6580 4050 50  0001 C CNN
+F 3 "" H 6650 4050 50  0001 C CNN
+	1    6650 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L R R70
+U 1 1 5B744E3D
+P 7550 4050
+F 0 "R70" V 7630 4050 50  0000 C CNN
+F 1 "1,1K" V 7550 4050 50  0000 C CNN
+F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 7480 4050 50  0001 C CNN
+F 3 "" H 7550 4050 50  0001 C CNN
+	1    7550 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L R R71
+U 1 1 5B744E8C
+P 8450 4000
+F 0 "R71" V 8530 4000 50  0000 C CNN
+F 1 "1,1K" V 8450 4000 50  0000 C CNN
+F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 8380 4000 50  0001 C CNN
+F 3 "" H 8450 4000 50  0001 C CNN
+	1    8450 4000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3900 3750 4000 3750
+Wire Wire Line
+	3650 4100 3750 4100
+Wire Wire Line
+	3750 4100 3750 3900
+Wire Wire Line
+	3750 3900 3500 3900
+Wire Wire Line
+	3500 3900 3500 3750
+Wire Wire Line
+	3500 3750 3600 3750
+Wire Wire Line
+	3650 4200 4150 4200
+Wire Wire Line
+	4150 4200 4150 4300
+Wire Wire Line
+	4150 4300 4850 4300
+Wire Wire Line
+	4850 4300 4850 4200
+Wire Wire Line
+	4850 3900 4850 3750
+Wire Wire Line
+	4850 3750 4900 3750
+Wire Wire Line
+	5800 3750 5750 3750
+Wire Wire Line
+	5750 3750 5750 3900
+Wire Wire Line
+	5750 4200 5750 4350
+Wire Wire Line
+	5750 4350 4100 4350
+Wire Wire Line
+	4100 4350 4100 4300
+Wire Wire Line
+	4100 4300 3650 4300
+Wire Wire Line
+	3650 4400 6650 4400
+Wire Wire Line
+	6650 4400 6650 4200
+Wire Wire Line
+	6650 3900 6650 3750
+Wire Wire Line
+	6650 3750 6700 3750
+Wire Wire Line
+	7600 3750 7550 3750
+Wire Wire Line
+	7550 3750 7550 3900
+Wire Wire Line
+	7550 4200 7550 4450
+Wire Wire Line
+	7550 4450 3800 4450
+Wire Wire Line
+	3800 4450 3800 4500
+Wire Wire Line
+	3800 4500 3650 4500
+Wire Wire Line
+	3650 4600 3850 4600
+Wire Wire Line
+	3850 4600 3850 4500
+Wire Wire Line
+	3850 4500 8450 4500
+Wire Wire Line
+	8450 4500 8450 4150
+Wire Wire Line
+	8450 3850 8450 3750
+Wire Wire Line
+	8450 3750 8500 3750
+$Comp
+L R R72
+U 1 1 5B7462C4
+P 9350 4000
+F 0 "R72" V 9430 4000 50  0000 C CNN
+F 1 "1,1K" V 9350 4000 50  0000 C CNN
+F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 9280 4000 50  0001 C CNN
+F 3 "" H 9350 4000 50  0001 C CNN
+	1    9350 4000
+	-1   0    0    1   
+$EndComp
+$Comp
+L R R73
+U 1 1 5B746317
+P 10250 4000
+F 0 "R73" V 10330 4000 50  0000 C CNN
+F 1 "1,1K" V 10250 4000 50  0000 C CNN
+F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 10180 4000 50  0001 C CNN
+F 3 "" H 10250 4000 50  0001 C CNN
+	1    10250 4000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9400 3750 9350 3750
+Wire Wire Line
+	9350 3750 9350 3850
+Wire Wire Line
+	9350 4150 9350 4550
+Wire Wire Line
+	9350 4550 3900 4550
+Wire Wire Line
+	3900 4550 3900 4700
+Wire Wire Line
+	3900 4700 3650 4700
+Wire Wire Line
+	3650 4800 3950 4800
+Wire Wire Line
+	3950 4800 3950 4600
+Wire Wire Line
+	3950 4600 10250 4600
+Wire Wire Line
+	10250 4600 10250 4150
+Wire Wire Line
+	10250 3850 10250 3750
+Wire Wire Line
+	10250 3750 10300 3750
 $EndSCHEMATC

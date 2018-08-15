@@ -138,10 +138,10 @@ R_QH
 Text HLabel 7700 4050 2    60   Output ~ 0
 R_QH'
 $Comp
-L R R4
+L R R2
 U 1 1 5B247E50
 P 5650 3250
-F 0 "R4" V 5730 3250 50  0000 C CNN
+F 0 "R2" V 5730 3250 50  0000 C CNN
 F 1 "R" V 5650 3250 50  0000 C CNN
 F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 5580 3250 50  0001 C CNN
 F 3 "" H 5650 3250 50  0001 C CNN
@@ -149,10 +149,10 @@ F 3 "" H 5650 3250 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R5
+L R R3
 U 1 1 5B247E5B
 P 5900 3350
-F 0 "R5" V 5980 3350 50  0000 C CNN
+F 0 "R3" V 5980 3350 50  0000 C CNN
 F 1 "R" V 5900 3350 50  0000 C CNN
 F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 5830 3350 50  0001 C CNN
 F 3 "" H 5900 3350 50  0001 C CNN
@@ -160,10 +160,10 @@ F 3 "" H 5900 3350 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R6
+L R R4
 U 1 1 5B247E61
 P 6150 3450
-F 0 "R6" V 6230 3450 50  0000 C CNN
+F 0 "R4" V 6230 3450 50  0000 C CNN
 F 1 "R" V 6150 3450 50  0000 C CNN
 F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 6080 3450 50  0001 C CNN
 F 3 "" H 6150 3450 50  0001 C CNN
@@ -171,10 +171,10 @@ F 3 "" H 6150 3450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R7
+L R R5
 U 1 1 5B247E67
 P 6400 3550
-F 0 "R7" V 6480 3550 50  0000 C CNN
+F 0 "R5" V 6480 3550 50  0000 C CNN
 F 1 "R" V 6400 3550 50  0000 C CNN
 F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 6330 3550 50  0001 C CNN
 F 3 "" H 6400 3550 50  0001 C CNN
@@ -182,10 +182,10 @@ F 3 "" H 6400 3550 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R8
+L R R6
 U 1 1 5B247E70
 P 6650 3650
-F 0 "R8" V 6730 3650 50  0000 C CNN
+F 0 "R6" V 6730 3650 50  0000 C CNN
 F 1 "R" V 6650 3650 50  0000 C CNN
 F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 6580 3650 50  0001 C CNN
 F 3 "" H 6650 3650 50  0001 C CNN
@@ -193,10 +193,10 @@ F 3 "" H 6650 3650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R9
+L R R7
 U 1 1 5B247E78
 P 6900 3750
-F 0 "R9" V 6980 3750 50  0000 C CNN
+F 0 "R7" V 6980 3750 50  0000 C CNN
 F 1 "R" V 6900 3750 50  0000 C CNN
 F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 6830 3750 50  0001 C CNN
 F 3 "" H 6900 3750 50  0001 C CNN
@@ -204,10 +204,10 @@ F 3 "" H 6900 3750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R10
+L R R8
 U 1 1 5B223B39
 P 7150 3850
-F 0 "R10" V 7230 3850 50  0000 C CNN
+F 0 "R8" V 7230 3850 50  0000 C CNN
 F 1 "R" V 7150 3850 50  0000 C CNN
 F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 7080 3850 50  0001 C CNN
 F 3 "" H 7150 3850 50  0001 C CNN
@@ -248,10 +248,10 @@ Wire Wire Line
 Wire Wire Line
 	5350 3850 7000 3850
 $Comp
-L R R11
+L R R9
 U 1 1 5B247E80
 P 7400 3950
-F 0 "R11" V 7480 3950 50  0000 C CNN
+F 0 "R9" V 7480 3950 50  0000 C CNN
 F 1 "R" V 7400 3950 50  0000 C CNN
 F 2 "alex-library:R_Axial_Long6.3mm_Dia2.5mm_Pas15.24mm_Horizontal" V 7330 3950 50  0001 C CNN
 F 3 "" H 7400 3950 50  0001 C CNN

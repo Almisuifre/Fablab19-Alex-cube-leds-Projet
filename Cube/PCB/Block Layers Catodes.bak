@@ -148,8 +148,6 @@ Wire Wire Line
 Wire Wire Line
 	2300 4800 2300 4850
 Wire Wire Line
-	1400 4600 2750 4600
-Wire Wire Line
 	1400 4700 2750 4700
 Wire Wire Line
 	2750 4900 2550 4900
@@ -456,4 +454,6 @@ Wire Wire Line
 	1800 4200 1800 4500
 Wire Wire Line
 	1800 4500 2750 4500
+Wire Wire Line
+	2750 4600 1400 4600
 $EndSCHEMATC
